@@ -2,14 +2,21 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 20%
-    right: 10%
+    width: 80px
+    top: 22%
+    right: 12%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
-
+    width: 80px
+    top: 57%
+    right: 79%
+  &-3
+    animation: float1 3.5s ease-in-out infinite alternate
+    position: absolute
+    width: 80px
+    top: 75%
+    right: 20%
 @keyframes float1
   0%
     transform: translateY(20px)
@@ -17,14 +24,139 @@
     transform: translateY(0px)
   
 
+.fa-lista
+  li
+    display: flex !important
+  li:before
+    position: relative
+    margin-right: 7px
+    font-size: 1.4rem 
+.lista-ul--color.color-primario li > i:first-of-type  
+  color: $color-primario
+.lista-ul--color.color-secundario li > i:first-of-type  
+  color: $color-secundario       
+.lista-ol--cuadro.color-primario .lista-ol--cuadro__vineta
+  background-color: $color-primario
+.bg-color-acento-contenido
+  background-color: $color-acento-contenido
+.bg-color-primario
+  background-color: $color-primario
+.w-fit
+  width: fit-content
+.columns-2
+  columns: 2
+.t-color-sec 
+  color: $color-secundario !important
+.font-italic
+  font-style: italic !important
+
+
 .banner-principal .tarjeta
   background-position: left 50% !important
 .banner-principal__row .banner-principal__img
-  width: 400px !important  
-.titulo-principal.color-acento-contenido .titulo-principal__numero span
-  color: white !important   
-.banner-interno__titulo__icono i
-  color: $color-primario
+  width: 500px !important  
 figcaption
   font-weight: normal
- 
+.barra-avance__boton--regresar span
+  color: $white !important
+
+
+.bgc-1
+  background-image: url('../assets/curso/temas/t3/bgc.png')
+  background-position: bottom
+  background-size: 100% 100%
+  background-repeat: no-repeat
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    margin-inline: -3rem  
+    background-size: cover 
+  @media screen and (max-width: 767px)
+    margin-inline: -1.4rem  
+    background-size: cover 
+.bgc-2
+  background-image: url('../assets/curso/temas/t2/bgc1.png')
+  background-position: top
+  background-size: 100% 100%
+  background-repeat: no-repeat
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    margin-inline: -3rem  
+    background-size: cover 
+  @media screen and (max-width: 767px)
+    margin-inline: -1.4rem  
+    background-size: cover 
+.bgs-1
+  background-image: url('../assets/curso/temas/t2/bgs1.png')
+  background-position: center
+  background-size: cover
+  background-repeat: no-repeat
+.bgs-2
+  background-image: url('../assets/curso/temas/t2/bgs2.png')
+  background-position: center
+  background-size: cover
+  background-repeat: no-repeat
+.bgs-3
+  background-image: url('../assets/curso/temas/t2/bgs3.png')
+  background-position: center
+  background-size: cover
+  background-repeat: no-repeat
+.bg-1
+  background-color: #F2EEFB
+.bg-2
+  background-color: #FFEDEE
+.bg-3
+  background-color: #FFF9DF
+.bg-4
+  background-color: #FFFFF6
+
+
+.br-5
+  border-radius: 5px
+.w-55
+  width: 55px
+.w-85
+  width: 85px
+.subt
+  display: flex
+  align-items: center
+  position: relative
+  width: fit-content
+  img
+    width: 60px
+  &::after
+    content: ''
+    position: absolute
+    background-color: $color-primario
+    border-radius: 200px
+    width: 100%
+    height: 75%
+    top: 7px
+    z-index: 0
+  h3, img
+    z-index: 999  
+    position: relative
+  @media (max-width: $bp-max-sm)
+    &::after
+      height: 100%
+      top: 1px
+.subt2
+  background-color: $color-acento-contenido
+  width: fit-content
+  border-radius: 200px
+
+
+.tabs-a
+  &__tab
+    background-color: $color-acento-contenido
+.acordion
+  &__activo
+    background-color: #FFEDEE !important
+  &__accion__btn--a
+    background-color: $color-acento-botones
+    i
+      color: $white !important
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+  background-color: $color-acento-botones
+  opacity: 0.85
+.slyder-a__bullets
+  display: none
