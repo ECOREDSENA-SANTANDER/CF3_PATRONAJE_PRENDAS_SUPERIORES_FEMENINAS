@@ -41,6 +41,8 @@
   background-color: $color-acento-contenido
 .bg-color-primario
   background-color: $color-primario
+.bg-color-secundario
+  background-color: $color-secundario
 .w-fit
   width: fit-content
 .columns-2
@@ -49,6 +51,8 @@
   color: $color-secundario !important
 .font-italic
   font-style: italic !important
+.sin-borde
+  border: 0px !important
 
 
 .banner-principal .tarjeta
@@ -85,6 +89,30 @@ figcaption
   @media screen and (max-width: 767px)
     margin-inline: -1.4rem  
     background-size: cover 
+.bgc-3
+  background-image: url('../assets/curso/temas/t2/bgc1.png')
+  background-position: center
+  background-size: 100% 100%
+  background-repeat: no-repeat
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    margin-inline: -3rem  
+    background-size: cover 
+  @media screen and (max-width: 767px)
+    margin-inline: -1.4rem  
+    background-size: cover
+.bgc-4
+  background-image: url('../assets/curso/temas/t2/bgc2.png')
+  background-position: top
+  background-size: 100% 100%
+  background-repeat: no-repeat
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    margin-inline: -3rem  
+    background-size: cover 
+  @media screen and (max-width: 767px)
+    margin-inline: -1.4rem  
+    background-size: cover
 .bgs-1
   background-image: url('../assets/curso/temas/t2/bgs1.png')
   background-position: center
@@ -100,6 +128,18 @@ figcaption
   background-position: center
   background-size: cover
   background-repeat: no-repeat
+.bgsc-1
+  background-image: url('../assets/curso/temas/t2/bgs1.png')
+  background-position: center
+  background-size: 100% 100%
+  background-repeat: no-repeat
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    margin-inline: -3rem  
+    background-size: cover 
+  @media screen and (max-width: 767px)
+    margin-inline: -1.4rem  
+    background-size: cover
 .bg-1
   background-color: #F2EEFB
 .bg-2
@@ -108,8 +148,14 @@ figcaption
   background-color: #FFF9DF
 .bg-4
   background-color: #FFFFF6
+.bg-5
+  background-color: #E4DEF6
+.bg-6
+  background-color: #FFFEA7
 
 
+.mt-n30
+  margin-top: -30px  
 .br-5
   border-radius: 5px
 .w-55
@@ -144,19 +190,90 @@ figcaption
   width: fit-content
   border-radius: 200px
 
-
+.lista-ul--color.color-primario li > i:first-of-type
+  font-size: 15px
+  padding-top: 1px
 .tabs-a
   &__tab
     background-color: $color-acento-contenido
 .acordion
-  &__activo
+  &__activo .color-primario
     background-color: #FFEDEE !important
   &__accion__btn--a
     background-color: $color-acento-botones
     i
       color: $white !important
+.acordion.style2 .acordion__activo.color-primario
+  background-color: #FFF9DF !important
+.acordion.style2 .acordion__activo.color-acento-contenido
+  background-color: #F8F7FD !important
 .slyder-a__btn--sigt, .slyder-a__btn--atrs
   background-color: $color-acento-botones
   opacity: 0.85
 .slyder-a__bullets
   display: none
+.linea-tiempo-d.color-primario .tarjeta
+  background-color: #FFEDEE
+.linea-tiempo-d.color-primario .linea-tiempo-d__item--selected .tarjeta, .linea-tiempo-d.color-primario .linea-tiempo-d__item--selected .linea-tiempo-d__item__content__title
+  background-color: #FFEDEE
+.linea-tiempo-d.color-primario  .linea-tiempo-d__item__content__title
+  background-color: #FFDBDC
+.linea-tiempo-d.color-primario .linea-tiempo-d__item--selected .linea-tiempo-d__item__number
+  background-color: $color-primario
+.linea-tiempo-d.color-primario  .linea-tiempo-d__item__dots:after
+  border-color: #FF494F
+.linea-tiempo-d.color-acento-contenido .tarjeta
+  background-color: #F8F7FD
+.linea-tiempo-d.color-acento-contenido .linea-tiempo-d__item--selected .tarjeta, .linea-tiempo-d.color-acento-contenido .linea-tiempo-d__item--selected .linea-tiempo-d__item__content__title
+  background-color: #F8F7FD
+.linea-tiempo-d.color-acento-contenido  .linea-tiempo-d__item__content__title, .linea-tiempo-d.color-acento-contenido .linea-tiempo-d__item__number
+  background-color: #E4DEF6
+.linea-tiempo-d.color-acento-contenido  .linea-tiempo-d__item__dots:after
+  border-color: #72688D
+.linea-tiempo-d.color-secundario .tarjeta
+  background-color: #FFFCEF
+.linea-tiempo-d.color-secundario .linea-tiempo-d__item--selected .tarjeta, .linea-tiempo-d.color-secundario .linea-tiempo-d__item--selected .linea-tiempo-d__item__content__title
+  background-color: #FFFCEF
+.linea-tiempo-d.color-secundario  .linea-tiempo-d__item__content__title
+  background-color: #FFF3BF
+.linea-tiempo-d.color-secundario .linea-tiempo-d__item--selected .linea-tiempo-d__item__number
+  background-color: $color-secundario
+.linea-tiempo-d.color-secundario  .linea-tiempo-d__item__dots:after
+  border-color: #72688D
+.linea-tiempo-d.color-acento-contenido .linea-tiempo-d__item--selected .linea-tiempo-d__item__number
+  background-color: $color-acento-contenido
+.circl-arrow .slyder-f__btn i
+  font-size: 1.2rem
+  background-color: $color-acento-botones
+  color: $white
+  height: 46px
+  width: 46px
+  padding: 5px
+  border-radius: 500px
+  display: flex
+  justify-content: center
+  align-items: center
+
+
+.tarjeta-avatar.numero
+  padding-top: 30px
+  .tarjeta
+    padding-top: 35px !important
+    transition: all 0.2s ease-out
+  .num
+    font-size: 32px
+    font-weight: bold
+    background-color: #FF494F
+    width: 65px
+    height: 65px
+    position: absolute
+    left: 3%
+    top: 0
+    display: block
+    border-radius: 200px
+    display: flex
+    align-items: center
+    justify-content: center
+  &:hover .tarjeta
+    background-color: #FFF9DF
+    transition: all 0.2s ease-out
