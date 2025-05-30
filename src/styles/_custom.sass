@@ -140,6 +140,25 @@ figcaption
   @media screen and (max-width: 767px)
     margin-inline: -1.4rem  
     background-size: cover
+.bgf-1
+  position: relative
+  &::before
+    content: ''
+    position: absolute
+    width: 100%
+    height: 75%
+    bottom: 0
+    left: 0
+    z-index: 0
+    background-image: url('../assets/curso/temas/t2/bg-bloque.png')
+    background-size: cover
+    background-repeat: no-repeat
+  p, img, .tarjeta--blanca
+    z-index: 999
+    position: relative
+  @media (max-width: $bp-max-md)
+    &::before
+      height: 100%
 .bg-1
   background-color: #F2EEFB
 .bg-2
@@ -197,7 +216,7 @@ figcaption
   &__tab
     background-color: $color-acento-contenido
 .acordion
-  &__activo .color-primario
+  &__activo .tarjeta.color-primario
     background-color: #FFEDEE !important
   &__accion__btn--a
     background-color: $color-acento-botones

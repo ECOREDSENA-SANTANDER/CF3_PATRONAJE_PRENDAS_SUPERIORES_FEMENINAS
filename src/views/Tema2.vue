@@ -11,7 +11,7 @@
     p Las transformaciones de los moldes básicos parten del patrón base femenino. A partir de esta estructura se pueden realizar ajustes como ampliaciones, cortes, desplazamientos de pinzas o modificaciones de largo. Estos cambios permiten desarrollar nuevos patrones fundamentales, como el de blusa, blusa con almilla y cuello camisero, o el vestido.
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-lg-5(data-aos="fade-right")
+      .col-lg-5.col-md-8.mb-3.mb-lg-0(data-aos="fade-right")
         img(src="@/assets/curso/temas/t2/1.png")
       .col-lg-7(data-aos="fade-left")
         p Para crear una blusa femenina, es necesario comenzar con el trazo del patrón base correspondiente. Este debe construirse empleando las medidas de la persona usuaria o tomando como referencia el contorno del busto y comparándolo con una tabla de tallas, eligiendo la que más se aproxime. Una vez definido el básico, se introducen los desahogos necesarios, el traslado de la pinza correctiva de talle, el sistema de cierre y los elementos de diseño, como almillas o bolsillos de parche.
@@ -19,7 +19,7 @@
           .row.justify-content-center.align-items-center
             .col-lg-10
               p.mb-0 El trazo del plano a partir del patrón base inicia con una línea de referencia. En prendas superiores, esta línea se dibuja horizontalmente sobre el papel, y sobre ella se alinean todas las partes del molde. En este tipo de prendas, la línea base o de aplome corresponde a la línea de profundidad de sisa, la cual marca el eje horizontal sobre el que se estructura el patrón.
-            .col-lg-2
+            .col-lg-2.d-none.d-lg-block
               img(src="@/assets/curso/temas/t2/2.svg")
 
     .row.bgc-2.align-items-center.p-2.p-md-3.pt-5.pt-md-5.mb-4(data-aos="fade-down")
@@ -58,12 +58,12 @@
     p.mb-4 Es una curva suave que rodea el cuello de manera simétrica. Su profundidad puede  variar y suele usarse en prendas casuales o de línea clásica.
 
     .row.justify-content-center.mb-5
-      .col-lg-8(data-aos="fade-right")
+      .col-lg-8.mb-4.mb-lg-0(data-aos="fade-right")
         .bgs-1.p-4.h-100
-          .tarjeta.bg-4.p-4.h-100.d-flex.align-items-center
+          .tarjeta.bg-4.p-4.h-100
             SlyderA(tipo="b")
               .row.justify-content-center
-                .col-md-11
+                .col-md-11.col-12
                   img.w-55.mb-4(src="@/assets/curso/temas/t2/ico.svg")
                   h5 1. Ubicar el molde base
                   p Colocar el molde base de la prenda superior femenina sobre una superficie plana. Asegurarse de tener visibles las líneas del centro delantero y centro espalda, así como el hombro y el escote original.
@@ -105,9 +105,9 @@
     p.mb-4 Tiene forma de ángulo con vértice apuntando hacia el centro del pecho. Favorece visualmente el alargamiento del cuello y puede tener diferentes profundidades según el diseño.
 
     .row.justify-content-center.mb-5
-      .col-lg-8(data-aos="fade-right")
+      .col-lg-8.mb-4.mb-lg-0(data-aos="fade-right")
         .bgs-2.p-4.h-100
-          .tarjeta.bg-4.p-4.h-100.d-flex.align-items-center
+          .tarjeta.bg-4.p-4.h-100
             SlyderA(tipo="b")
               .row.justify-content-center
                 .col-md-11
@@ -157,9 +157,9 @@
     p.mb-4 Forma una línea recta en la base con ángulos en los hombros, generando un contorno geométrico. Es estructurado y da énfasis a los hombros.
 
     .row.justify-content-center.mb-5
-      .col-lg-8(data-aos="fade-right")
+      .col-lg-8.mb-4.mb-lg-0(data-aos="fade-right")
         .bgs-3.p-4.h-100
-          .tarjeta.bg-4.p-4.h-100.d-flex.align-items-center
+          .tarjeta.bg-4.p-4.h-100
             SlyderA(tipo="b")
               .row.justify-content-center
                 .col-md-11
@@ -202,9 +202,9 @@
     p.mb-4 Tiene una curva que imita la parte superior de un corazón. Aporta un efecto romántico y se adapta a diseños más ajustados.
 
     .row.justify-content-center.mb-5
-      .col-lg-8(data-aos="fade-right")
+      .col-lg-8.mb-4.mb-lg-0(data-aos="fade-right")
         .bgs-1.p-4.h-100
-          .tarjeta.bg-4.p-4.h-100.d-flex.align-items-center
+          .tarjeta.bg-4.p-4.h-100
             SlyderA(tipo="b")
               .row.justify-content-center
                 .col-md-11
@@ -243,9 +243,9 @@
     p.mb-4 Se extiende en línea horizontal desde un hombro al otro, cubriendo parte de estos. Ideal para equilibrar proporciones en cuerpos con cadera más amplia.
 
     .row.justify-content-center.mb-5
-      .col-lg-8(data-aos="fade-right")
+      .col-lg-8.mb-4.mb-lg-0(data-aos="fade-right")
         .bgs-2.p-4.h-100
-          .tarjeta.bg-4.p-4.h-100.d-flex.align-items-center
+          .tarjeta.bg-4.p-4.h-100
             SlyderA(tipo="b")
               .row.justify-content-center
                 .col-md-11
@@ -288,9 +288,9 @@
     p.mb-4 El diseño rodea el cuello desde el frente, dejando al descubierto hombros y espalda. Aporta un estilo fresco y sofisticado.
 
     .row.justify-content-center.mb-5
-      .col-lg-8(data-aos="fade-right")
+      .col-lg-8.mb-4.mb-lg-0(data-aos="fade-right")
         .bgs-3.p-4.h-100
-          .tarjeta.bg-4.p-4.h-100.d-flex.align-items-center
+          .tarjeta.bg-4.p-4.h-100
             SlyderA(tipo="b")
               .row.justify-content-center
                 .col-md-11
@@ -338,7 +338,7 @@
       h4.mb-0 1. Cuello cascada
 
     .row.justify-content-center.mb-5
-      .col-lg-4(data-aos="fade-right")
+      .col-lg-4.col-md-7.mb-4.mb-lg-0(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido.mb-3
           h5 Figura 14. 
           span Cuello cascada
@@ -380,7 +380,7 @@
       h4.mb-0 2. Cuello nerú
     
     .row.justify-content-center.mb-5
-      .col-lg-6(data-aos="fade-right")
+      .col-lg-6.mb-4.mb-lg-0(data-aos="fade-right")
         .tarjeta.bg-5.p-4.h-100
           .mb-4
             .titulo-sexto.color-acento-contenido.mb-3
@@ -401,7 +401,7 @@
             li
               i.fas.fa-check-circle
               span.mb-0 El alto total del cuello es de 4 cm.
-      .col-lg-6(data-aos="fade-left")
+      .col-lg-6.mb-4.mb-lg-0(data-aos="fade-left")
         .tarjeta.bg-5.p-4.h-100
           .mb-4
             .titulo-sexto.color-acento-contenido.mb-3
@@ -427,7 +427,7 @@
       h4.mb-0 3. Cuello bebé
 
     .row.justify-content-center.mb-5
-      .col-lg-4(data-aos="fade-right")
+      .col-lg-4.col-md-6.mb-4.mb-lg-0(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido.mb-3
           h5 Figura 17. 
           span Cuello bebé
@@ -480,7 +480,7 @@
       h4.mb-0 4. Capota
 
     .row.justify-content-center.mb-5
-      .col-lg-5(data-aos="fade-right")
+      .col-lg-5.col-md-7.mb-4.mb-lg-0(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido.mb-3
           h5 Figura 18. 
           span Capota 
@@ -488,7 +488,7 @@
           img(src="@/assets/curso/temas/t2/fig18.png" alt="El desarrollo técnico de una capucha con su respectiva adaptación al patrón superior. En la parte superior se encuentra el trazo de la capucha, con medidas detalladas en centímetros y flechas que indican dirección del hilo. En la parte inferior, aparecen los moldes del cuerpo etiquetados como “Espalda” y “Frente”, con ajustes en el escote para integrar la capucha. Se señala también la ubicación del cierre con la palabra “Zipper” y valores milimétricos para precisión en el ensamblaje.")
         figcaption Fuente: SENA, (2021)
       .col-lg-7(data-aos="fade-left") 
-        img.mb-3(src='@/assets/curso/temas/t2/7.png', alt='')
+        img.mb-3.d-none.d-lg-block(src='@/assets/curso/temas/t2/7.png', alt='')
         AcordionA.style2(tipo="a" clase-tarjeta="tarjeta color-primario")
           .row.justify-content-center(titulo="1. Trazado de la capota (pieza superior)")
             .col-11
@@ -522,7 +522,7 @@
       h4.mb-0 5. Cuello y solapa
     
     .row.justify-content-center.mb-5
-      .col-lg-7(data-aos="fade-right")
+      .col-lg-7.mb-4.mb-lg-0(data-aos="fade-right")
         p Este proceso corresponde al desarrollo de un cuello sastre con solapa, típico en blazers, chaquetas o abrigos. El diseño permite que el cuello se doble hacia afuera, formando una solapa visible en el delantero. La figura presenta una secuencia de pasos que permiten construir correctamente esta estructura.
         LineaTiempoD.color-primario
           .row(numero="1" titulo="Paso 1: identificación de piezas base") 
@@ -562,7 +562,7 @@
                 li.mb-0
                   i.fas.fa-check-circle
                   span.mb-0 Este tipo de diseño es ideal para prendas formales o estructuradas.
-      .col-lg-5(data-aos="fade-left")
+      .col-lg-5.col-md-9(data-aos="fade-left")
         .titulo-sexto.color-acento-contenido
           h5 Figura 19. 
           span Cuello y solapa
@@ -581,14 +581,14 @@
         .row.justify-content-center.align-items-center
 
           .row.justify-content-center.mb-4
-            .col-lg-5.mb-4
+            .col-lg-5.col-md-9.mb-4
               .titulo-sexto.color-acento-contenido(data-aos='fade-right')
                 h5 Figura 20. 
                 span  Cuello alto con manga raglán 
               figure.mb-2
                 img(src='@/assets/curso/temas/t2/fig20.png', alt='Presenta el ajuste de hombrospara una prenda superior con manga ranglán. A laizquierda se encuentra la vista posterior y a la derechala vista delantera. Ambas incluyen líneas curvas ypuntos numerados que marcan desplazamientos encentímetros para dar forma a la unión entre hombro,escote y sisa. Las líneas punteadas indican el contornooriginal antes de la modificación.')  
               figcaption Fuente: SENA, (2021)
-            .col-lg-5.mb-4
+            .col-lg-5.col-md-9.mb-4
               .titulo-sexto.color-acento-contenido(data-aos='fade-right')
                 h5 Figura 21. 
                 span Cuello manga ranglán 
@@ -634,7 +634,7 @@
       .col-lg-10
         .bg-2.p-4
           .row.justify-content-center.align-items-center
-            .col-lg-2
+            .col-lg-2.d-none.d-lg-block
               img(src="@/assets/curso/temas/t2/8.svg")
             .col-lg-9
               h5 Características clave del diseño
@@ -654,7 +654,7 @@
         p.mb-0 Dentro del diseño de moda femenina, las mangas representan un componente esencial tanto a nivel funcional como estético. Las modificaciones en su patronaje permiten crear siluetas diversas, adaptadas a diferentes estilos, estaciones del año y necesidades de comodidad. Al variar la forma, el volumen o la longitud de las mangas, se logra transformar por completo el carácter de una prenda sin alterar su estructura base.
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-lg-5(data-aos="fade-right")
+      .col-lg-5.col-md-8.mb-3.mb-lg-0(data-aos="fade-right")
         img(src="@/assets/curso/temas/t2/10.png")
       .col-lg-7(data-aos="fade-left")
         p Entre las variaciones más utilizadas se encuentran la manga japonesa, que extiende el hombro de forma continua sin costura en la sisa, generando una caída natural del tejido. También destaca la manga abullonada, que incorpora frunces en uno o ambos extremos, aportando dramatismo y volumen. Por otro lado, la manga murciélago se distingue por su gran amplitud desde el hombro hasta la cintura, ofreciendo libertad de movimiento y un diseño más relajado.
@@ -662,8 +662,9 @@
           .row.justify-content-center.align-items-center
             .col-lg-10
               p.mb-0 Estas transformaciones no solo enriquecen visualmente las prendas, sino que también mejoran su ajuste al cuerpo, incrementan la funcionalidad del diseño y responden a las preferencias individuales de quienes las visten. Asimismo, permiten a las personas que diseñan ropa explorar nuevas formas y reinterpretar estilos clásicos con creatividad e innovación.
-            .col-lg-2
+            .col-lg-2.d-none.d-lg-block
               img(src="@/assets/curso/temas/t2/11.svg")
+
 
     Separador
 
@@ -673,7 +674,7 @@
     p.mb-4 A continuación, se presentan variaciones de variaciones de manga a partir de la modificación de sisa en el patrón, se debe tener en cuenta que la copa de la manga se afecta a medida.
 
     .row.justify-content-center.mb-5
-      .col-lg-6(data-aos="fade-right")
+      .col-lg-6.mb-4.mb-lg-0(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido.mb-3
           h5 Figura 22. 
           span Transformaciones de sisas según tipo de manga 
@@ -687,7 +688,7 @@
           p A la derecha, se ilustra el desarrollo de la manga raglán, donde cada curva (A - F) corresponde a las entradas del cuerpo.
           p.mb-5 Esto genera mangas con diferentes volúmenes y tipos de ajuste, según la línea de sisa seleccionada.
           .mb-5
-      .col-lg-6(data-aos="fade-left")
+      .col-lg-6.mb-4.mb-lg-0(data-aos="fade-left")
         .titulo-sexto.color-acento-contenido.mb-3
           h5 Figura 23. 
           span Efecto por transformación de sisa en prenda 
@@ -709,7 +710,7 @@
       h4.mb-0 A. Manga Raglán
 
     .row.justify-content-center.mb-5
-      .col-lg-5
+      .col-lg-5.col-md-10.mb-4.mb-lg-0
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
           h5 Figura 24. 
           span Trazo de manga
@@ -765,7 +766,7 @@
       h4.mb-0 B. Manga Tulipán
 
     .row.justify-content-center.mb-5
-      .col-lg-8(data-aos="fade-right")
+      .col-lg-8.mb-4.mb-lg-0(data-aos="fade-right")
         AcordionA.style2(tipo="a" clase-tarjeta="tarjeta color-acento-contenido")
           .row.justify-content-center(titulo="Descripción")
             .col-11
@@ -791,7 +792,7 @@
               p En esta sección, las piezas A y B están unidas por los costados, mostrando cómo lucen cuando se ensamblan.
               p La unión forma una figura en forma de pétalo o de ala, con una superposición natural que proporciona movimiento y un acabado decorativo a la manga.
               p Esta unión permite que la manga se abra ligeramente al mover el brazo, generando un efecto suave y elegante.
-      .col-lg-4(data-aos='fade-left')
+      .col-lg-4.col-md-6(data-aos='fade-left')
         .titulo-sexto.color-acento-contenido
           h5 Figura 25. 
           span Trazo de manga tulipán 
@@ -809,7 +810,7 @@
               .subt2.mb-4.py-2.px-4(data-aos="fade")
                 h4.mb-0 C. Manga Kimono
             
-            .col-lg-5
+            .col-lg-5.col-md-8.mb-4.mb-lg-0
               .titulo-sexto.color-acento-contenido
                 h5 Figura 26. 
                 span Trazo de manga kimono 
@@ -873,7 +874,7 @@
       h2 2.3 Vestido casual
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-5.mb-4.mb-lg-0(data-aos="fade-right")
+      .col-lg-5.col-md-8.mb-4.mb-lg-0(data-aos="fade-right")
         img(src="@/assets/curso/temas/t2/12.png")
       .col-lg-7(data-aos="fade-left")
         img.w-85.mb-3.d-none.d-lg-block(src="@/assets/curso/temas/t2/13.svg")
@@ -881,7 +882,7 @@
         .tarjeta.bg-2.p-4.br-5
           p.mb-0 #[strong Pasos detallados para realizar el trazo del vestido:] el vestido clásico sin unión en la cintura se puede transformar en un sinfín de otros básicos, son solo la acción de dar amplitud, cambiar el largo se obtiene una forma y da paso a una nueva silueta. A continuación, se presentan los pasos detallados para realizar la base de superior femenina:
     
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-2
       .col-lg-8(data-aos="fade-right")
         LineaTiempoD.color-secundario
           .row(numero="1" titulo="Primer paso para el trazo") 
@@ -1010,6 +1011,46 @@
       .col-lg-4.d-none.d-lg-block(fade-left)
         img(src="@/assets/curso/temas/t2/14.svg")
 
+    .row.bgc-2.align-items-center.p-2.pt-5.p-md-3.pt-md-5.mb-4(data-aos="fade-down")
+      .col-lg-12.col-12.px-lg-4
+        .row.justify-content-center.align-items-center
+
+          .row.justify-content-center.mb-5
+            .col-lg-10.p-4.px-md-5.bgf-1
+              .row.justify-content-center.align-items-end
+                .col-lg-8.tarjeta--blanca.p-4.p-lg-5
+                  p.mb-0 #[strong Variación del vestido:] partiendo de los básicos y de cada interpretación se genera una variación de nuevos patrones. En escala ¼ y con medidas de diferentes cuerpos explora siguiendo los esquemas en el siguiente enlace: 
+                .col-lg-4.d-none.d-lg-block
+                  img(src="@/assets/curso/temas/t2/14.png")
+
+          .tarjeta.color-primario.p-3.mb-4
+            .row.justify-content-around.align-items-center
+              .col-3.col-sm-2.col-lg-1.mb-3.mb-md-0
+                img(src="@/assets/curso/temas/t3/pdf.svg")
+              .col
+                .row.justify-content-between.align-items-center
+                  .col.mb-3.mb-sm-0
+                    h4.mb-1 PDF – Manual patronaje básico
+                    p.mb-0 Partiendo de los básicos y de cada interpretación se genera una variación de nuevos patrones. En escala ¼ y con medidas de diferentes cuerpos explora siguiendo los esquemas. Indagar las páginas 59 a la 62.
+                  .col-sm-auto
+                    a.boton.color-acento-botones.texto-blanco(:href="('https://repositorio.sena.edu.co/bitstream/handle/11404/4725/Manual_patronaje_basico_interpretacion_disenos.PDF;jsessionid=33AD41E34F0FE51C537763C6774D3963?sequence=1')" target="_blank")
+                      span Descargar
+                      i.fas.fa-file-download
+
+          .tarjeta.color-primario.p-3
+            .row.justify-content-around.align-items-center
+              .col-3.col-sm-2.col-lg-1.mb-3.mb-md-0
+                img(src="@/assets/curso/temas/t2/video.svg")
+              .col
+                .row.justify-content-between.align-items-center
+                  .col.mb-3.mb-sm-0
+                    h4.mb-1 Video - Trazo de prendas – bata o vestido
+                    p.mb-0 Explorar video explicativo sobre cómo realizar trazo de prendas.
+                  .col-sm-auto
+                    a.boton.color-acento-botones.texto-blanco(:href="('https://www.youtube.com/watch?app=desktop&v=JnFLa4-gUa4&t=187s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA')" target="_blank")
+                      span Ver Video 
+                      i.fas.fa-link
+
     Separador
 
     #t_2_4.titulo-segundo.color-acento-contenido(data-aos='fade-right')
@@ -1020,7 +1061,7 @@
         .row.justify-content-center.align-items-center
 
           .row.justify-content-center.mb-5
-            .col-lg-5
+            .col-lg-5.col-md-10.mb-4.mb-lg-0
               .titulo-sexto.color-acento-contenido
                 h5 Figura 38. 
                 span #[em Crop top] con corte princesa 
@@ -1059,7 +1100,7 @@
                   p.mb-0 El patrón trasero permanece más simple, sin cortes, manteniendo una forma rectangular acortada.
 
           .row.justify-content-center
-            .col-lg-5
+            .col-lg-5.col-md-10.mb-4.mb-lg-0
               .titulo-sexto.color-acento-contenido
                 h5 Figura 39. 
                 span #[em Crop top] con corte princesa en sisa 
@@ -1089,7 +1130,7 @@
         .tarjeta.bg-1.p-4.h-100.d-flex.justify-content-center.flex-column
           img.w-85.mb-3.d-none.d-lg-block(src="@/assets/curso/temas/t2/ico3.svg")
           p.mb-0 Para el procedimiento de este trazo, se siguen los pasos similares al anterior, la diferencia es que el corte quedará más adentrado por sisa, y se genera dos pinzas para poder trazar un corte más estilizado. 
-      .col-lg-5.mb-4
+      .col-lg-5.col-md-10.mb-4
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
           h5 Figura 40. 
           span #[em Crop top] corte princesa en sisa corto  
@@ -1097,7 +1138,7 @@
           img(src='@/assets/curso/temas/t2/fig40.png', alt='Representa la transformación del molde base de una prenda superior sin mangas en un diseño con corte tipo princesa hacia la sisa. El proceso se muestra en tres etapas: el diseño final, el trazo con líneas guía que pasan por el busto y la sisa, y la división del molde en piezas que permiten un ajuste anatómico.')  
         figcaption Fuente: 
           a(href="https://mx.pinterest.com/pin/103160647708822690/" target="_blank") https://mx.pinterest.com/pin/103160647708822690/
-      .col-lg-3.mb-4
+      .col-lg-3.mb-4.d-none.d-lg-block
         img(src="@/assets/curso/temas/t2/15.svg")
 
     Separador
@@ -1178,9 +1219,9 @@
       h3.ps-3.pe-4.mb-0 2. Puntos de ajuste comunes
 
     .row.justify-content-center.mb-5.pt-5(data-aos="fade-down")
-      .col-lg-3.bg-color-acento-contenido
+      .col-lg-3.col-md-7.bg-color-acento-contenido
         img.mt-n30(src='@/assets/curso/temas/t2/16.png', alt='')
-      .col-lg-5.bg-2
+      .col-lg-5.col-md-7.bg-2
         .p-4.h-100
           ul.lista-ul--color.color-primario.fa-lista.mb-0
             li
