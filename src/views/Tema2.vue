@@ -432,7 +432,7 @@
           h5 Figura 17. 
           span Cuello bebé
         figure.mb-2
-          img(src="@/assets/curso/temas/t2/fig17.png" alt="")
+          img(src="@/assets/curso/temas/t2/fig17.png" alt="Dibujo técnico del patrón para uncuello bebé, que muestra las piezas del delantero yposterior con medidas específicas para trazar elcontorno del cuello.")
         figcaption Fuente: SENA, (2021)
       .col-lg-8(data-aos="fade-left") 
         .tarjeta-numerada.color-primario.bg-2.sin-borde.p-5.py-4.mb-3
@@ -913,7 +913,7 @@
                 h5 Figura 29. 
                 span Tercer paso para el trazo
               figure.mb-2
-                img(src='@/assets/curso/temas/t2/fig29.png', alt='')  
+                img(src='@/assets/curso/temas/t2/fig29.png', alt='Dibujo técnico del tercer paso para el trazo del delantero, mostrando la línea de cierre depinza y el centro del busto.')  
               figcaption Fuente: SENA, (2021)
           .row(numero="4" titulo="Cuarto paso para el trazo") 
             .col-md-6
