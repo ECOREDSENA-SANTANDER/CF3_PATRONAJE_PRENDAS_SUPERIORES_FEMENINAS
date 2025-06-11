@@ -209,9 +209,11 @@ figcaption
   width: fit-content
   border-radius: 200px
 
-.lista-ul--color.color-primario li > i:first-of-type
-  font-size: 15px
-  padding-top: 1px
+.lista-ul--color.color-primario 
+  background-color: transparent !important
+  li > i:first-of-type
+    font-size: 15px
+    padding-top: 1px
 .tabs-a
   &__tab
     background-color: $color-acento-contenido
@@ -222,6 +224,10 @@ figcaption
     background-color: $color-acento-botones
     i
       color: $white !important
+.acordion.style1 .color-primario
+  background-color: #EFA6A8
+.acordion.style1 .acordion__activo.color-primario
+  background-color: #FFEDEE !important
 .acordion.style2 .acordion__activo.color-primario
   background-color: #FFF9DF !important
 .acordion.style2 .acordion__activo.color-acento-contenido

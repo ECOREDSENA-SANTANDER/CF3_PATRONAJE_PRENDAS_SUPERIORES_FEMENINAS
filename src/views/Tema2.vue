@@ -58,7 +58,7 @@
     p.mb-4 Es una curva suave que rodea el cuello de manera simétrica. Su profundidad puede  variar y suele usarse en prendas casuales o de línea clásica.
 
     .row.justify-content-center.mb-5
-      .col-lg-8.mb-4.mb-lg-0(data-aos="fade-right")
+      .col-lg-7.mb-4.mb-lg-0(data-aos="fade-right")
         .bgs-1.p-4.h-100
           .tarjeta.bg-4.p-4.h-100
             SlyderA(tipo="b")
@@ -91,10 +91,10 @@
                 .col-md-11
                   h5 6. Agregar margen de costura (opcional)
                   p Si se va a coser con vistas o ribetes, agregar el margen necesario alrededor del nuevo escote (generalmente entre 0.7 y 1 cm).
-      .col-lg-4.col-md-8.col-10(data-aos="fade-right")
+      .col-lg-5.col-md-8.col-10(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido.mb-3
           h5 Figura 8. 
-          span Escote redondón en plano básico  
+          span Escote redondo en plano básico  
         figure.mb-2
           img(src="@/assets/curso/temas/t2/fig8.svg" alt="Patrón base para prenda superior femenina, dividido en delantero (izquierda) y espalda (derecha). Se destacan en rojo las líneas curvas del escote en ambos moldes: más profunda en el delantero y más alta en la espalda. El resto del trazado presenta divisiones para pinzas, hombros, centro frente y centro espalda.")
         figcaption Fuente: SENA, (2025)
@@ -105,7 +105,7 @@
     p.mb-4 Tiene forma de ángulo con vértice apuntando hacia el centro del pecho. Favorece visualmente el alargamiento del cuello y puede tener diferentes profundidades según el diseño.
 
     .row.justify-content-center.mb-5
-      .col-lg-8.mb-4.mb-lg-0(data-aos="fade-right")
+      .col-lg-7.mb-4.mb-lg-0(data-aos="fade-right")
         .bgs-2.p-4.h-100
           .tarjeta.bg-4.p-4.h-100
             SlyderA(tipo="b")
@@ -140,7 +140,7 @@
                 .col-md-11
                   h5 6. Agregar margen de costura (opcional)
                   p Si se planea aplicar vista, ribete o acabado en el escote, agregar un margen de costura alrededor del nuevo contorno. El margen habitual es de 0.7 a 1 centímetro, aunque puede ajustarse según la técnica de confección elegida.
-      .col-lg-4.col-md-8.col-10(data-aos="fade-right")
+      .col-lg-5.col-md-8.col-10(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido.mb-3
           h5 Figura 9. 
           span Escote en V  
@@ -157,7 +157,7 @@
     p.mb-4 Forma una línea recta en la base con ángulos en los hombros, generando un contorno geométrico. Es estructurado y da énfasis a los hombros.
 
     .row.justify-content-center.mb-5
-      .col-lg-8.mb-4.mb-lg-0(data-aos="fade-right")
+      .col-lg-7.mb-4.mb-lg-0(data-aos="fade-right")
         .bgs-3.p-4.h-100
           .tarjeta.bg-4.p-4.h-100
             SlyderA(tipo="b")
@@ -172,7 +172,7 @@
                   p.mb-1 En el centro delantero, medir hacia abajo entre 6 y 9 centímetros, según la profundidad deseada.
                   p.mb-1 En la línea del hombro, medir hacia dentro entre 4 y 6 centímetros desde el cuello.
                   p.mb-1 Unir estos dos puntos formando una línea horizontal, y luego trazar una línea recta vertical desde el punto más bajo hasta el centro delantero.
-                  p El resultado es un escote cuadrado, de líneas rectas y ángulos.
+                  p El resultado es un escote cuadrado, de líneas rectas y ángulos marcados.
                   .bg-2.py-1.px-3.br-5
                     p.mb-0 #[strong Nota:] En la figura, este escote está marcado en línea roja en el lado izquierdo.
               .row.justify-content-center
@@ -187,10 +187,10 @@
                 .col-md-11
                   h5 4. Finalizar el trazo
                   p Una vez conformes con las formas, marcar y recortar sobre las nuevas líneas del escote. Si se utilizarán vistas o ribetes, agregar un margen de costura de aproximadamente 1 centímetro alrededor del contorno modificado.              
-      .col-lg-4.col-md-8.col-10(data-aos="fade-right")
+      .col-lg-5.col-md-8.col-10(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido.mb-3
           h5 Figura 10. 
-          span Escote Cuadrado 
+          span Escote cuadrado 
         figure.mb-2
           img(src="@/assets/curso/temas/t2/fig10.svg" alt="Patrón base de prenda superior femenina con el delantero a la izquierda y la espalda a la derecha. Se resaltan en rojo los trazos de un escote cuadrado en el delantero, formado por líneas rectas, y una curva leve en el escote trasero. El resto del patrón incluye referencias como hombros, centro frente, centro espalda y ubicación de pinzas.")
         figcaption Fuente: SENA, (2025)
@@ -202,7 +202,7 @@
     p.mb-4 Tiene una curva que imita la parte superior de un corazón. Aporta un efecto romántico y se adapta a diseños más ajustados.
 
     .row.justify-content-center.mb-5
-      .col-lg-8.mb-4.mb-lg-0(data-aos="fade-right")
+      .col-lg-7.mb-4.mb-lg-0(data-aos="fade-right")
         .bgs-1.p-4.h-100
           .tarjeta.bg-4.p-4.h-100
             SlyderA(tipo="b")
@@ -227,12 +227,12 @@
                 .col-md-11
                   h5 5. Margen de costura (si aplica)
                   p Para confección, se recomienda añadir entre 0.7 y 1 cm de margen de costura alrededor del nuevo escote.             
-      .col-lg-4.col-md-8.col-10(data-aos="fade-right")
+      .col-lg-5.col-md-8.col-10(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido.mb-3
           h5 Figura 11. 
           span Escote corazón  
         figure.mb-2
-          img(src="@/assets/curso/temas/t2/fig11.svg" alt="Patrón base de prenda superior femenina con el delantero a la izquierda y la espalda a la derecha. Se resaltan en rojo los trazos de un escote cuadrado en el delantero, formado por líneas rectas, y una curva leve en el escote trasero. El resto del patrón incluye referencias como hombros, centro frente, centro espalda y ubicación de pinzas.")
+          img(src="@/assets/curso/temas/t2/fig11.svg" alt="Representa un patrón base para prenda superior femenina, con el delantero a la izquierda y la espalda a la derecha. Se marcan en rojo líneas curvas correspondientes a un escote corazón en el delantero y un escote posterior con leve forma redondeada. El patrón incluye referencias como centro frente, centro espalda, hombros y ubicación de pinzas.")
         figcaption Fuente: SENA, (2025)
 
     img.mb-5(src='@/assets/curso/temas/t2/5.png', alt='')
@@ -243,7 +243,7 @@
     p.mb-4 Se extiende en línea horizontal desde un hombro al otro, cubriendo parte de estos. Ideal para equilibrar proporciones en cuerpos con cadera más amplia.
 
     .row.justify-content-center.mb-5
-      .col-lg-8.mb-4.mb-lg-0(data-aos="fade-right")
+      .col-lg-7.mb-4.mb-lg-0(data-aos="fade-right")
         .bgs-2.p-4.h-100
           .tarjeta.bg-4.p-4.h-100
             SlyderA(tipo="b")
@@ -273,7 +273,7 @@
                   h5 6. Agregado de margen de costura (opcional)
                   p.mb-1 Si se va a confeccionar, se recomienda añadir entre 0.7 y 1 cm de margen de costura en todo el contorno del escote.
                   p Este tipo de escote es común en blusas formales, vestidos de fiesta y prendas que buscan resaltar los hombros. Ofrece un diseño elegante y equilibrado, ideal para estilos románticos o sofisticados.
-      .col-lg-4.col-md-8.col-10(data-aos="fade-right")
+      .col-lg-5.col-md-8.col-10(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido.mb-3
           h5 Figura 12. 
           span Escote barco o bandeja
@@ -288,7 +288,7 @@
     p.mb-4 El diseño rodea el cuello desde el frente, dejando al descubierto hombros y espalda. Aporta un estilo fresco y sofisticado.
 
     .row.justify-content-center.mb-5
-      .col-lg-8.mb-4.mb-lg-0(data-aos="fade-right")
+      .col-lg-7.mb-4.mb-lg-0(data-aos="fade-right")
         .bgs-3.p-4.h-100
           .tarjeta.bg-4.p-4.h-100
             SlyderA(tipo="b")
@@ -314,7 +314,7 @@
                   h5 5. Margen de costura (si aplica)
                   p.mb-1 Para confección, se recomienda agregar un margen de costura de entre 0.7 y 1 cm a lo largo del nuevo escote.
                   p Este escote es típico en blusas, tops y vestidos de verano o fiesta, y se ajusta normalmente con tiras o cuello alto en la parte posterior, resaltando hombros y espalda.
-      .col-lg-4.col-md-8.col-10(data-aos="fade-right")
+      .col-lg-5.col-md-8.col-10(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido.mb-3
           h5 Figura 13. 
           span Escote #[em halter]
@@ -322,7 +322,7 @@
           img(src="@/assets/curso/temas/t2/fig13.svg" alt="Patrón base de prenda superior femenina, con el delantero a la izquierda y la espalda a la derecha. Una línea curva en rojo atraviesa ambos moldes desde un hombro hasta el otro, formando un escote profundo tipo “V” invertida, que conecta el centro frente con el centro espalda. También se identifican zonas como hombros, pinzas y centros.")
         figcaption Fuente: SENA, (2025)
 
-    p.text-center.mb-5 Cada tipo de escote se traza a partir de la base del patrón, adaptando el ancho y profundidad según el diseño y el uso de la prenda. En contextos educativos, comprender su construcción facilita la creación de propuestas funcionales e inclusivas.
+    p.mb-5 Cada tipo de escote se traza a partir de la base del patrón, adaptando el ancho y profundidad según el diseño y el uso de la prenda. En contextos educativos, comprender su construcción facilita la creación de propuestas funcionales e inclusivas.
 
     .subt.mb-4(data-aos="fade")
       img(src="@/assets/curso/temas/t1/subt.svg")
@@ -335,17 +335,17 @@
         p Los cuellos suelen ser un elemento esencial al momento de construir un patrón que permita el desarrollo de modelos con variaciones basadas en este tipo de plano, a continuación, se presentan los más implementados en prendas de moda casual. 
 
     .subt2.mb-4.py-2.px-4(data-aos="fade")
-      h4.mb-0 1. Cuello cascada
+      h4.mb-0 Cuello cascada
 
     .row.justify-content-center.mb-5
-      .col-lg-4.col-md-7.mb-4.mb-lg-0(data-aos="fade-right")
+      .col-lg-5.col-md-7.mb-4.mb-lg-0(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido.mb-3
           h5 Figura 14. 
           span Cuello cascada
         figure.mb-2
           img(src="@/assets/curso/temas/t2/fig14.svg" alt="Presenta cuatro pasos para desarrollar un escote con volante circular. En el primero, se trazan líneas desde el escote en un molde base. En el segundo, se recortan y separan las secciones para añadir amplitud. En el tercero, las partes abiertas se distribuyen en forma circular. En el cuarto, se obtiene una sola pieza con forma espiral que conforma el volante.")
-        figcaption Fuente: SENA, (2025)
-      .col-lg-8(data-aos="fade-left")
+        figcaption Fuente: SENA, (2021)
+      .col-lg-7(data-aos="fade-left")
         LineaTiempoD.color-primario
           .row(numero="1" titulo="Paso 1: preparación y trazado base") 
             .col-12
@@ -377,7 +377,7 @@
 
 
     .subt2.mb-4.py-2.px-4(data-aos="fade")
-      h4.mb-0 2. Cuello nerú
+      h4.mb-0 Cuello nerú
     
     .row.justify-content-center.mb-5
       .col-lg-6.mb-4.mb-lg-0(data-aos="fade-right")
@@ -424,17 +424,17 @@
 
 
     .subt2.mb-4.py-2.px-4(data-aos="fade")
-      h4.mb-0 3. Cuello bebé
+      h4.mb-0 Cuello bebé
 
     .row.justify-content-center.mb-5
-      .col-lg-4.col-md-6.mb-4.mb-lg-0(data-aos="fade-right")
+      .col-lg-5.col-md-6.mb-4.mb-lg-0(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido.mb-3
           h5 Figura 17. 
           span Cuello bebé
         figure.mb-2
           img(src="@/assets/curso/temas/t2/fig17.png" alt="Dibujo técnico del patrón para uncuello bebé, que muestra las piezas del delantero yposterior con medidas específicas para trazar elcontorno del cuello.")
         figcaption Fuente: SENA, (2021)
-      .col-lg-8(data-aos="fade-left") 
+      .col-lg-7(data-aos="fade-left") 
         .tarjeta-numerada.color-primario.bg-2.sin-borde.p-5.py-4.mb-3
           .tarjeta-numerada__numero
             .h2 1
@@ -477,7 +477,7 @@
               span.mb-0 Puede ser simétrico o asimétrico, y terminar con punta redonda, cuadrada o en pico, según el diseño.
 
     .subt2.mb-4.py-2.px-4(data-aos="fade")
-      h4.mb-0 4. Capota
+      h4.mb-0 Capota
 
     .row.justify-content-center.mb-5
       .col-lg-5.col-md-7.mb-4.mb-lg-0(data-aos="fade-right")
@@ -519,11 +519,11 @@
                     p.mb-0 Se deja una separación de 0.5 cm en el centro delantero para colocar un #[em zipper] (cremallera) si es parte del diseño.
 
     .subt2.mb-4.py-2.px-4(data-aos="fade")
-      h4.mb-0 5. Cuello y solapa
+      h4.mb-0 Cuello y solapa
     
     .row.justify-content-center.mb-5
       .col-lg-7.mb-4.mb-lg-0(data-aos="fade-right")
-        p Este proceso corresponde al desarrollo de un cuello sastre con solapa, típico en blazers, chaquetas o abrigos. El diseño permite que el cuello se doble hacia afuera, formando una solapa visible en el delantero. La figura presenta una secuencia de pasos que permiten construir correctamente esta estructura.
+        p Este proceso corresponde al desarrollo de un cuello sastre con solapa, típico en #[em blazers], chaquetas o abrigos. El diseño permite que el cuello se doble hacia afuera, formando una solapa visible en el delantero. La figura presenta una secuencia de pasos que permiten construir correctamente esta estructura.
         LineaTiempoD.color-primario
           .row(numero="1" titulo="Paso 1: identificación de piezas base") 
             .col-12
@@ -572,7 +572,7 @@
 
 
     .subt2.mb-4.py-2.px-4(data-aos="fade")
-      h4.mb-0 6. Cuello alto con manga raglán
+      h4.mb-0 Cuello alto con manga raglán
 
     p.mb-4 Este diseño combina un cuello alto estructurado con una manga raglán, caracterizada por su línea continua desde el cuello hasta la sisa. Es un recurso habitual en prendas deportivas, abrigos, buzos o chaquetas, ya que permite libertad de movimiento y una apariencia limpia sin costura de hombro tradicional.
 
@@ -586,14 +586,14 @@
                 h5 Figura 20. 
                 span  Cuello alto con manga raglán 
               figure.mb-2
-                img(src='@/assets/curso/temas/t2/fig20.png', alt='Presenta el ajuste de hombrospara una prenda superior con manga ranglán. A laizquierda se encuentra la vista posterior y a la derechala vista delantera. Ambas incluyen líneas curvas ypuntos numerados que marcan desplazamientos encentímetros para dar forma a la unión entre hombro,escote y sisa. Las líneas punteadas indican el contornooriginal antes de la modificación.')  
+                img(src='@/assets/curso/temas/t2/fig20.png', alt='Presenta el ajuste de hombros para una prenda superior con manga ranglán. A la izquierda se encuentra la vista posterior y a la derecha la vista delantera. Ambas incluyen líneas curvas y puntos numerados que marcan desplazamientos en centímetros para dar forma a la unión entre hombro, escote y sisa. Las líneas punteadas indican el contorno original antes de la modificación.')  
               figcaption Fuente: SENA, (2021)
             .col-lg-5.col-md-9.mb-4
               .titulo-sexto.color-acento-contenido(data-aos='fade-right')
                 h5 Figura 21. 
                 span Cuello manga ranglán 
               figure.mb-2
-                img(src='@/assets/curso/temas/t2/fig21.png', alt='Presenta el trazo de una mangaranglán. A la izquierda se encuentra la secciónposterior y a la derecha la sección delantera. Ambaspartes contienen líneas rectas y curvas acompañadaspor valores numéricos en centímetros. Estas líneasindican cómo se construye la unión entre el bordesuperior del cuerpo, la abertura para el brazo y elcontorno del cuello. Líneas segmentadas marcan laforma original antes de aplicar los ajustes.')  
+                img(src='@/assets/curso/temas/t2/fig21.png', alt='Presenta el trazo de una manga ranglán. A la izquierda se encuentra la sección posterior y a la derecha la sección delantera. Ambas partes contienen líneas rectas y curvas acompañadas por valores numéricos en centímetros. Estas líneas indican cómo se construye la unión entre el borde superior del cuerpo, la abertura para el brazo y el contorno del cuello. Líneas segmentadas marcan la forma original antes de aplicar los ajustes.')  
               figcaption Fuente: SENA, (2021)
 
           .row(data-aos="fade-down")
@@ -671,7 +671,7 @@
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 2.2. Transformaciones de sisas y mangas
 
-    p.mb-4 A continuación, se presentan variaciones de variaciones de manga a partir de la modificación de sisa en el patrón, se debe tener en cuenta que la copa de la manga se afecta a medida.
+    p.mb-4 A continuación, se presentan diferentes variaciones de manga a partir de la modificación de sisa en el patrón, se debe tener en cuenta que la copa de la manga se afecta a medida.
 
     .row.justify-content-center.mb-5
       .col-lg-6.mb-4.mb-lg-0(data-aos="fade-right")
@@ -704,20 +704,23 @@
           p.mb-1 #[strong Manga D:] sisa baja y amplia. Proporciona una manga suelta, con más caída sobre el brazo. Usada en buzos, chaquetas o estilos relajados.
           p.mb-1 #[strong Manga E:] la más amplia. La sisa cae casi a nivel de la cintura, generando un estilo tipo "murciélago" o "#[em oversize]". Es ideal para diseños de moda con volumen y libertad de movimiento.
 
-    p.mb-5 Las figuras 22 y 23 presentan cómo distintas variaciones en la curva de la sisa (etiquetadas como A, B, C, D y E) generan mangas raglán con diferentes niveles de amplitud, caída y estilo visual.
+    p Las figuras 22 y 23 presentan cómo distintas variaciones en la curva de la sisa (etiquetadas como A, B, C, D y E) generan mangas raglán con diferentes niveles de amplitud, caída y estilo visual.
+
+    p.mb-5 Cada línea de sisa en el patrón base (A - E) corresponde directamente al tipo de curva en la copa de la manga, generando una transformación visible en la forma, volumen y caída de la prenda. Esta relación permite diseñar desde mangas ajustadas hasta propuestas sueltas y de estilo vanguardista, adaptadas al propósito de la prenda
+
 
     .subt2.mb-4.py-2.px-4(data-aos="fade")
-      h4.mb-0 A. Manga Raglán
+      h4.mb-0 A. Manga raglán
 
     .row.justify-content-center.mb-5
-      .col-lg-5.col-md-10.mb-4.mb-lg-0
+      .col-lg-6.col-md-10.mb-4.mb-lg-0
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
           h5 Figura 24. 
           span Trazo de manga
         figure.mb-2
           img(src='@/assets/curso/temas/t2/fig24.png', alt='Presenta el trazo técnico de una prenda superior con manga tipo kimono. Incluye las piezas del frente y la parte posterior, ambas con la manga incorporada en una sola forma continua. Se señalan medidas en centímetros, líneas de construcción, ubicación de botones y pieza del cuello en la parte superior.')  
         figcaption Fuente: SENA, (2021)
-      .col-lg-7
+      .col-lg-6
         AcordionA.style2(tipo="a" clase-tarjeta="tarjeta color-primario")
           .row.justify-content-center(titulo="1. Estructura general del molde")
             .col-11
@@ -763,7 +766,7 @@
               p Está etiquetada como “cuello”, con medidas horizontales de 17 cm y márgenes adicionales en ambos extremos.
 
     .subt2.mb-4.py-2.px-4(data-aos="fade")
-      h4.mb-0 B. Manga Tulipán
+      h4.mb-0 B. Manga tulipán
 
     .row.justify-content-center.mb-5
       .col-lg-8.mb-4.mb-lg-0(data-aos="fade-right")
@@ -810,14 +813,14 @@
               .subt2.mb-4.py-2.px-4(data-aos="fade")
                 h4.mb-0 C. Manga Kimono
             
-            .col-lg-5.col-md-8.mb-4.mb-lg-0
+            .col-lg-6.col-md-8.mb-4.mb-lg-0
               .titulo-sexto.color-acento-contenido
                 h5 Figura 26. 
                 span Trazo de manga kimono 
               figure.mb-2
                 img(src='@/assets/curso/temas/t2/fig26.png', alt='Presenta el trazo técnico de una prenda superior con manga tipo kimono. Incluye las piezas del frente y la parte posterior, ambas con la manga integrada. Se detallan medidas en centímetros, la ubicación del cuello y un ejemplo visual de la prenda terminada en el centro inferior.')  
               figcaption Fuente: SENA, (2021)
-            .col-lg-7
+            .col-lg-6
               LineaTiempoD.color-acento-contenido
                 .row(numero="1" titulo="Descripción") 
                   .col-12
@@ -880,14 +883,14 @@
         img.w-85.mb-3.d-none.d-lg-block(src="@/assets/curso/temas/t2/13.svg")
         p El vestido sin corte en la cintura es una monoprenda en donde se emplea el patrón base superior y se prolonga el largo. En otros casos se puede unir con moldes de faldas logrando diferentes tipologías de vestidos.
         .tarjeta.bg-2.p-4.br-5
-          p.mb-0 #[strong Pasos detallados para realizar el trazo del vestido:] el vestido clásico sin unión en la cintura se puede transformar en un sinfín de otros básicos, son solo la acción de dar amplitud, cambiar el largo se obtiene una forma y da paso a una nueva silueta. A continuación, se presentan los pasos detallados para realizar la base de superior femenina:
+          p.mb-0 #[strong Pasos detallados para realizar el trazo del vestido:] el vestido clásico sin unión en la cintura se puede transformar en un sinfín de otros básicos, son solo acciones como, dar amplitud, cambiar el largo con ello, se obtiene una forma y da paso a una nueva silueta. A continuación, se presentan los pasos detallados para realizar la base de superior femenina: 
     
     .row.justify-content-center.mb-2
       .col-lg-8(data-aos="fade-right")
         LineaTiempoD.color-secundario
           .row(numero="1" titulo="Primer paso para el trazo") 
             .col-md-6
-              p Realiza una línea vertical, marca la línea de la cintura y hacia abajo la altura de cadera, inmediatamente dibujar la línea de cadera con ¼ del contorno de cadera de tu cliente y escuadramos este punto hacia arriba hasta la línea de cintura. En la línea de cintura, desde el punto recién marcado, medimos 2 cm y marcamos un nuevo punto. Seguidamente, colocamos el patrón delantero haciendo coincidir el punto con el cruce de las líneas. 
+              p Se debe trazar una línea vertical y marcar la ubicación correspondiente a la línea de cintura. Desde ese punto, se mide hacia abajo la altura de cadera. En la línea de cadera, se dibuja una línea horizontal utilizando ¼ del contorno de cadera del cliente. Desde el extremo de esta línea, se escuadra hacia arriba hasta alcanzar la línea de cintura. Sobre esta última, a partir del punto de intersección, se mide una distancia de 2 cm y se señala un nuevo punto. Finalmente, el patrón delantero se posiciona haciendo coincidir dicho punto con el cruce de las líneas previamente determinadas. 
             .col-md-6.col-10
               .titulo-sexto.color-acento-contenido.mb-2
                 h5 Figura 27. 
@@ -907,7 +910,7 @@
               figcaption Fuente: SENA, (2021)
           .row(numero="3" titulo="Tercer paso para el trazo") 
             .col-md-6
-              p Se dibuja y se corta una línea desde el punto de busto (punto de pivote) hacia el costado, a 8 cm. 
+              p Dibujar y se corta una línea desde el punto de busto (punto de pivote) hacia el costado, a 8 cm.
             .col-md-6.col-10
               .titulo-sexto.color-acento-contenido.mb-2
                 h5 Figura 29. 
@@ -917,7 +920,7 @@
               figcaption Fuente: SENA, (2021)
           .row(numero="4" titulo="Cuarto paso para el trazo") 
             .col-md-6
-              p Cerrar la pinza de hombro, hacer el trasladando esta pinza hacia el costado, así queda finalizada la pinza de busto. Marcar un punto a 2,5 cm para el inicio de pinza desde el punto de busto y trazamos la pinza de costado. 
+              p Cerrar la pinza de hombro, hacerlo trasladando esta pinza hacia el costado, así queda finalizada la pinza de busto. Marcar un punto a 2,5 cm para el inicio de pinza desde el punto de busto y trazamos la pinza de costado. 
             .col-md-6.col-10
               .titulo-sexto.color-acento-contenido.mb-2
                 h5 Figura 30. 
@@ -927,7 +930,7 @@
               figcaption Fuente: SENA, (2021)
           .row(numero="5" titulo="Quinto paso para el trazo ") 
             .col-md-6
-              p Dibuja una línea horizontal al centro delantero 2,5 cm por debajo de la altura del busto.
+              p Dibujar una línea horizontal al centro delantero 2,5 cm por debajo de la altura del busto.
             .col-md-6.col-10
               .titulo-sexto.color-acento-contenido.mb-2
                 h5 Figura 31. 
@@ -957,7 +960,7 @@
               figcaption Fuente: SENA, (2021)
           .row(numero="8" titulo="Octavo paso para el trazo") 
             .col-md-6
-              p Hacer corte por la nueva línea y abrir la pinza hacia afuera 2cm por la cintura.
+              p Hacer corte por la nueva línea y abrir la pinza hacia afuera 2 cm por la cintura.
             .col-md-6.col-10
               .titulo-sexto.color-acento-contenido.mb-2
                 h5 Figura 34. 
@@ -996,7 +999,7 @@
                 h5 Figura 36. 
                 span Décimo paso para el trazo 
               figure.mb-2
-                img(src='@/assets/curso/temas/t2/fig36.png', alt='')  
+                img(src='@/assets/curso/temas/t2/fig36.png', alt='Representa el trazo técnico de la parte posterior de una prenda superior con ajuste en el área de la cintura y extensión hacia la cadera. Se indican desplazamientos de 2.5 y 2 centímetros en el costado, así como la ubicación de dos pinzas verticales con medidas detalladas: 1.25 centímetros de ancho cada una y 8 centímetros de largo. La base incluye un rectángulo que completa el largo total de la prenda.')  
               figcaption Fuente: SENA, (2021)
           .row(numero="11" titulo="Onceavo paso para el trazo") 
             .col-md-6
@@ -1006,7 +1009,7 @@
                 h5 Figura 37. 
                 span Onceavo paso para el trazo 
               figure.mb-2
-                img(src='@/assets/curso/temas/t2/fig37.png', alt='')  
+                img(src='@/assets/curso/temas/t2/fig37.png', alt='Representa el trazo de la espalda básica para blusa o vestido. Incluye dos pinzas verticales en la zona de la cintura, que permiten dar forma al contorno. El diseño abarca escote, hombro, sisa, costado y largo hasta la cadera.')  
               figcaption Fuente: SENA, (2021)
       .col-lg-4.d-none.d-lg-block(fade-left)
         img(src="@/assets/curso/temas/t2/14.svg")
@@ -1030,8 +1033,8 @@
               .col
                 .row.justify-content-between.align-items-center
                   .col.mb-3.mb-sm-0
-                    h4.mb-1 PDF – Manual patronaje básico
-                    p.mb-0 Partiendo de los básicos y de cada interpretación se genera una variación de nuevos patrones. En escala ¼ y con medidas de diferentes cuerpos explora siguiendo los esquemas. Indagar las páginas 59 a la 62.
+                    h4.mb-1 PDF – Manual patronaje básico e interpretación de diseños. 
+                    p.mb-0 Partiendo de los básicos y de cada interpretación se genera una variación de nuevos patrones. En escala ¼ y con medidas de diferentes cuerpos. Indagar las páginas 59 a la 62.
                   .col-sm-auto
                     a.boton.color-acento-botones.texto-blanco(:href="('https://repositorio.sena.edu.co/bitstream/handle/11404/4725/Manual_patronaje_basico_interpretacion_disenos.PDF;jsessionid=33AD41E34F0FE51C537763C6774D3963?sequence=1')" target="_blank")
                       span Descargar
@@ -1114,11 +1117,11 @@
                   .col-11
                     p.mb-1 Se utiliza un molde base de blusa sin mangas, que incluye escote, hombros, sisa y línea de cintura.
                     p.mb-1 Se marca el punto de busto (PB) como referencia principal.
-                    p.mb-0 El largo del patrón se acorta para ajustarlo a la longitud del crop top, terminando algunos centímetros por encima de la cintura.
+                    p.mb-0 El largo del patrón se acorta para ajustarlo a la longitud del #[em crop top], terminando algunos centímetros por encima de la cintura.
                 .row.justify-content-center(titulo="Paso 2: trazar el corte princesa hacia la sisa")
                   .col-11
                     p.mb-1 Desde el centro de la sisa (la curva que conecta el hombro con el costado), se traza una línea curva que pasa por el punto de busto y desciende hasta la cintura, reemplazando la pinza de entalle.
-                    p.mb-0 Este trazo crea una nueva forma anatómica que se ajusta al busto y mejora la estructura del #[em top].
+                    p.mb-0 Este trazo crea una nueva forma anatómica que se ajusta al busto y mejora la estructura del top.
                 .row.justify-content-center(titulo="Paso 3: separación de piezas")
                   .col-11
                     p.mb-1 Se corta el molde siguiendo las líneas del nuevo trazo.
@@ -1129,7 +1132,7 @@
       .col-lg-4.mb-4
         .tarjeta.bg-1.p-4.h-100.d-flex.justify-content-center.flex-column
           img.w-85.mb-3.d-none.d-lg-block(src="@/assets/curso/temas/t2/ico3.svg")
-          p.mb-0 Para el procedimiento de este trazo, se siguen los pasos similares al anterior, la diferencia es que el corte quedará más adentrado por sisa, y se genera dos pinzas para poder trazar un corte más estilizado. 
+          p.mb-0 Para el procedimiento de este trazo, se siguen los pasos similares al anterior, la diferencia es que el corte quedará más adentrado por sisa, y se generan dos pinzas para poder trazar un corte más estilizado.
       .col-lg-5.col-md-10.mb-4
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
           h5 Figura 40. 
@@ -1148,7 +1151,7 @@
 
     .subt.mb-4(data-aos="fade")
       img(src="@/assets/curso/temas/t1/subt.svg")
-      h3.ps-3.pe-4.mb-0 1. Pasos principales del ajuste de patrones 
+      h3.ps-3.pe-4.mb-0 Pasos principales del ajuste de patrones 
     
     .row.bgsc-1.align-items-center.p-4.p-md-5.mb-5(data-aos="fade-down")
       .col-lg-12.col-12.px-lg-4
@@ -1216,7 +1219,7 @@
 
     .subt.mb-4(data-aos="fade")
       img(src="@/assets/curso/temas/t1/subt.svg")
-      h3.ps-3.pe-4.mb-0 2. Puntos de ajuste comunes
+      h3.ps-3.pe-4.mb-0 Puntos de ajuste comunes
 
     .row.justify-content-center.mb-5.pt-5(data-aos="fade-down")
       .col-lg-3.col-md-7.bg-color-acento-contenido
@@ -1242,7 +1245,7 @@
 
     .subt.mb-4(data-aos="fade")
       img(src="@/assets/curso/temas/t1/subt.svg")
-      h3.ps-3.pe-4.mb-0 3. Consideraciones para diferentes tipos de cuerpo
+      h3.ps-3.pe-4.mb-0 Consideraciones para diferentes tipos de cuerpo
 
     .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5(data-aos="fade-down")
       .bloque-texto-g__img(

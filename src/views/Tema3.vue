@@ -13,12 +13,12 @@
 
           .row.justify-content-center.align-items-center
             .col-lg-12
-              p.mb-4 A continuación, se presenta el patronaje de la chaqueta tipo #[em Levis] en #[em denim].
+              p.mb-4 A continuación, se presenta el patronaje de la chaqueta tipo #[em Levi's] en #[em denim].
           .row.justify-content-center.align-items-center.mb-5
             .col-lg-7
               .titulo-sexto.color-acento-contenido(data-aos='fade-right')
                 h5 Figura 41. 
-                span Chaqueta para dama tipo #[em Levis] en #[em Denim] 
+                span Chaqueta para dama tipo #[em Levi's] en #[em denim] 
               figure.mb-2
                 img(src='@/assets/curso/temas/t3/fig41.svg', alt='Presenta una chaqueta en denim ilustrada desde el frente y la parte posterior. El diseño incluye cuello camisero, bolsillos con tapa en el pecho, botonadura central, costuras decorativas visibles y puños ajustados. En la parte trasera se observan cortes verticales y una pretina con botones decorativos en los laterales.')  
               figcaption Fuente: 

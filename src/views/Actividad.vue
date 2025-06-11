@@ -20,7 +20,7 @@ export default {
       tema: 'Interpretación de modelos femeninos',
       titulo: 'Cuestionario',
       introduccion:
-        '<b>Objetivo:</b> Identificar factores para tener en cuenta en la interpretación de modelosfemeninos. ',
+        '<b>Objetivo:</b> identificar factores para tener en cuenta en la interpretación de modelos femeninos. ',
       barajarPreguntas: false,
       titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO',
@@ -28,35 +28,35 @@ export default {
         {
           id: 1,
           texto:
-            'La manga japonesa destaca por eliminar la costura de la sisa y extender el hombro en una solapieza.  ¿Qué ventaja funcional aporta esta característica al diseño de la prenda?',
+            'La manga japonesa destaca por eliminar la costura de la sisa y extender el hombro en una sola pieza.  ¿Qué ventaja funcional aporta esta característica al diseño de la prenda?',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: false,
           opciones: [
             {
               id: '1',
-              texto: 'Aumenta el volumen en la parte inferior de la manga',
+              texto: 'Aumenta el volumen en la parte inferior de la manga.',
               esCorrecta: false,
             },
             {
               id: '2',
-              texto: 'Facilita una caída natural del tejido sobre el brazo ',
+              texto: 'Facilita una caída natural del tejido sobre el brazo.',
               esCorrecta: true,
             },
             {
               id: '3',
-              texto: 'Disminuye la movilidad de quien la usa',
+              texto: 'Disminuye la movilidad de quien la usa.',
               esCorrecta: false,
             },
             {
               id: '4',
-              texto: 'Obliga a reducir la longitud total de la blusa',
+              texto: 'Obliga a reducir la longitud total de la blusa.',
               esCorrecta: false,
             },
           ],
           mensaje_correcto:
             '¡Excelente! Felicitaciones, ha superado la actividad. ',
           mensaje_incorrecto:
-            'Le recomendamos volver a revisar el componente formativo e intentarnuevamente la actividad didáctica. ',
+            'Le recomendamos volver a revisar el componente formativo e intentar nuevamente la actividad didáctica. ',
         },
         {
           id: 2,
@@ -89,7 +89,7 @@ export default {
           mensaje_correcto:
             '¡Excelente! Felicitaciones, ha superado la actividad. ',
           mensaje_incorrecto:
-            'Le recomendamos volver a revisar el componente formativo e intentarnuevamente la actividad didáctica. ',
+            'Le recomendamos volver a revisar el componente formativo e intentar nuevamente la actividad didáctica. ',
         },
         {
           id: 3,
@@ -100,29 +100,29 @@ export default {
           opciones: [
             {
               id: '1',
-              texto: 'Solo en la corona de la manga',
+              texto: 'Solo en la corona de la manga.',
               esCorrecta: false,
             },
             {
               id: '2',
-              texto: 'Tanto en la copa como en el puño',
+              texto: 'Tanto en la copa como en el puño.',
               esCorrecta: false,
             },
             {
               id: '3',
-              texto: 'Únicamente en el puño',
+              texto: 'Únicamente en el puño.',
               esCorrecta: true,
             },
             {
               id: '4',
-              texto: 'En la costura lateral bajo manga',
+              texto: 'En la costura lateral bajo manga.',
               esCorrecta: false,
             },
           ],
           mensaje_correcto:
             '¡Excelente! Felicitaciones, ha superado la actividad. ',
           mensaje_incorrecto:
-            'Le recomendamos volver a revisar el componente formativo e intentarnuevamente la actividad didáctica. ',
+            'Le recomendamos volver a revisar el componente formativo e intentar nuevamente la actividad didáctica. ',
         },
         {
           id: 4,
@@ -133,29 +133,29 @@ export default {
           opciones: [
             {
               id: '1',
-              texto: 'Silueta entallada en la zona del torso',
+              texto: 'Silueta entallada en la zona del torso.',
               esCorrecta: false,
             },
             {
               id: '2',
-              texto: 'Mayor libertad de movimiento y estética relajada',
+              texto: 'Mayor libertad de movimiento y estética relajada.',
               esCorrecta: true,
             },
             {
               id: '3',
-              texto: 'Reducción del consumo de tela en el corte',
+              texto: 'Reducción del consumo de tela en el corte.',
               esCorrecta: false,
             },
             {
               id: '4',
-              texto: 'Disminución del ancho de espalda en la prenda',
+              texto: 'Disminución del ancho de espalda en la prenda.',
               esCorrecta: false,
             },
           ],
           mensaje_correcto:
             '¡Excelente! Felicitaciones, ha superado la actividad. ',
           mensaje_incorrecto:
-            'Le recomendamos volver a revisar el componente formativo e intentarnuevamente la actividad didáctica. ',
+            'Le recomendamos volver a revisar el componente formativo e intentar nuevamente la actividad didáctica. ',
         },
         {
           id: 5,
@@ -166,30 +166,30 @@ export default {
           opciones: [
             {
               id: '1',
-              texto: 'Una manga muy ajustada tipo sastre',
+              texto: 'Una manga muy ajustada tipo sastre.',
               esCorrecta: false,
             },
             {
               id: '2',
-              texto: 'Una manga media adecuada para prendas deportivas',
+              texto: 'Una manga media adecuada para prendas deportivas.',
               esCorrecta: false,
             },
             {
               id: '3',
-              texto: 'Una manga amplia estilo murciélago u oversize',
+              texto: 'Una manga amplia estilo murciélago u <em>oversize</em>.',
               esCorrecta: true,
             },
             {
               id: '4',
               texto:
-                'La eliminación de la pinza de busto en el patrón delantero',
+                'La eliminación de la pinza de busto en el patrón delantero.',
               esCorrecta: false,
             },
           ],
           mensaje_correcto:
             '¡Excelente! Felicitaciones, ha superado la actividad. ',
           mensaje_incorrecto:
-            'Le recomendamos volver a revisar el componente formativo e intentarnuevamente la actividad didáctica. ',
+            'Le recomendamos volver a revisar el componente formativo e intentar nuevamente la actividad didáctica. ',
         },
         {
           id: 6,
@@ -200,30 +200,30 @@ export default {
           opciones: [
             {
               id: '1',
-              texto: 'Línea de corte – ayuda a recortar piezas curvas',
+              texto: 'Línea de corte – ayuda a recortar piezas curvas.',
               esCorrecta: false,
             },
             {
               id: '2',
               texto:
-                'Línea de aplome – Garantiza el comportamiento adecuado del tejido',
+                'Línea de aplome – garantiza el comportamiento adecuado del tejido.',
               esCorrecta: true,
             },
             {
               id: '3',
-              texto: 'Margen de costura – Facilita la unión de las piezas',
+              texto: 'Margen de costura – facilita la unión de las piezas.',
               esCorrecta: false,
             },
             {
               id: '4',
-              texto: 'Línea de holgura – Controla el ajuste en tallas grandes',
+              texto: 'Línea de holgura – controla el ajuste en tallas grandes.',
               esCorrecta: false,
             },
           ],
           mensaje_correcto:
             '¡Excelente! Felicitaciones, ha superado la actividad. ',
           mensaje_incorrecto:
-            'Le recomendamos volver a revisar el componente formativo e intentarnuevamente la actividad didáctica. ',
+            'Le recomendamos volver a revisar el componente formativo e intentar nuevamente la actividad didáctica. ',
         },
         {
           id: 7,
@@ -234,31 +234,32 @@ export default {
           opciones: [
             {
               id: '1',
-              texto: 'Recordar que la pieza necesita entretela adherida',
+              texto: 'Recordar que la pieza necesita entretela adherida.',
               esCorrecta: false,
             },
             {
               id: '2',
-              texto: 'Indicar la zona donde se aplicará un pespunte decorativo',
+              texto:
+                'Indicar la zona donde se aplicará un pespunte decorativo.',
               esCorrecta: false,
             },
             {
               id: '3',
               texto:
-                'Evitar costuras adicionales cortando la pieza completa sobre la tela doblada',
+                'Evitar costuras adicionales cortando la pieza completa sobre la tela doblada.',
               esCorrecta: true,
             },
             {
               id: '4',
               texto:
-                'Reducir el consumo de tela recortando márgenes de costura',
+                'Reducir el consumo de tela recortando márgenes de costura.',
               esCorrecta: false,
             },
           ],
           mensaje_correcto:
             '¡Excelente! Felicitaciones, ha superado la actividad. ',
           mensaje_incorrecto:
-            'Le recomendamos volver a revisar el componente formativo e intentarnuevamente la actividad didáctica. ',
+            'Le recomendamos volver a revisar el componente formativo e intentar nuevamente la actividad didáctica. ',
         },
         {
           id: 8,
@@ -269,30 +270,30 @@ export default {
           opciones: [
             {
               id: '1',
-              texto: 'Decorar los bordes de la prenda con un acabado dentado',
+              texto: 'Decorar los bordes de la prenda con un acabado dentado.',
               esCorrecta: false,
             },
             {
               id: '2',
               texto:
-                'Alinear correctamente piezas como mangas, costados y bolsillos',
+                'Alinear correctamente piezas como mangas, costados y bolsillos.',
               esCorrecta: true,
             },
             {
               id: '3',
-              texto: 'Indicar la ubicación del logo de la marca',
+              texto: 'Indicar la ubicación del logo de la marca.',
               esCorrecta: false,
             },
             {
               id: '4',
-              texto: 'Reducir la tensión del hilo en costuras curvas',
+              texto: 'Reducir la tensión del hilo en costuras curvas.',
               esCorrecta: false,
             },
           ],
           mensaje_correcto:
             '¡Excelente! Felicitaciones, ha superado la actividad. ',
           mensaje_incorrecto:
-            'Le recomendamos volver a revisar el componente formativo e intentarnuevamente la actividad didáctica. ',
+            'Le recomendamos volver a revisar el componente formativo e intentar nuevamente la actividad didáctica. ',
         },
         {
           id: 9,
@@ -304,30 +305,31 @@ export default {
             {
               id: '1',
               texto:
-                'Diferenciar entre tejido principal y forro en la prenda terminada',
+                'Diferenciar entre tejido principal y forro en la prenda terminada.',
               esCorrecta: false,
             },
             {
               id: '2',
               texto:
-                'Asegurar que se corten todas las capas necesarias para la confección',
+                'Asegurar que se corten todas las capas necesarias para la confección.',
               esCorrecta: true,
             },
             {
               id: '3',
-              texto: 'Facilitar la gradación de tallas sin ajustes posteriores',
+              texto:
+                'Facilitar la gradación de tallas sin ajustes posteriores.',
               esCorrecta: false,
             },
             {
               id: '4',
-              texto: 'Señalar la longitud exacta del dobladillo final',
+              texto: 'Señalar la longitud exacta del dobladillo final.',
               esCorrecta: false,
             },
           ],
           mensaje_correcto:
             '¡Excelente! Felicitaciones, ha superado la actividad. ',
           mensaje_incorrecto:
-            'Le recomendamos volver a revisar el componente formativo e intentarnuevamente la actividad didáctica. ',
+            'Le recomendamos volver a revisar el componente formativo e intentar nuevamente la actividad didáctica. ',
         },
         {
           id: 10,
@@ -339,37 +341,37 @@ export default {
             {
               id: '1',
               texto:
-                'Permite identificar fácilmente el sentido del hilo en la tela',
+                'Permite identificar fácilmente el sentido del hilo en la tela.',
               esCorrecta: false,
             },
             {
               id: '2',
               texto:
-                'Garantiza la correspondencia entre el molde y la colección o línea de diseño',
+                'Garantiza la correspondencia entre el molde y la colección o línea de diseño.',
               esCorrecta: true,
             },
             {
               id: '3',
-              texto: 'Indica cuántos centímetros agregar de margen de costura',
+              texto: 'Indica cuántos centímetros agregar de margen de costura.',
               esCorrecta: false,
             },
             {
               id: '4',
               texto:
-                'Sirve para ubicar el molde correcto dentro del tizado automático',
+                'Sirve para ubicar el molde correcto dentro del tizado automático.',
               esCorrecta: false,
             },
           ],
           mensaje_correcto:
             '¡Excelente! Felicitaciones, ha superado la actividad. ',
           mensaje_incorrecto:
-            'Le recomendamos volver a revisar el componente formativo e intentarnuevamente la actividad didáctica. ',
+            'Le recomendamos volver a revisar el componente formativo e intentar nuevamente la actividad didáctica. ',
         },
       ],
       mensaje_final_aprobado:
         '¡Excelente! Felicitaciones, ha superado la actividad.',
       mensaje_final_reprobado:
-        'Le recomendamos volver a revisar el componente formativo e intentarnuevamente la actividad didáctica. ',
+        'Le recomendamos volver a revisar el componente formativo e intentar nuevamente la actividad didáctica. ',
     },
   }),
 }

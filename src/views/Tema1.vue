@@ -56,9 +56,9 @@
                     h5 Figura 2.
                     span Símbolos de piquetes 
                   figure.mb-1
-                    img(src="@/assets/curso/temas/t1/fig2.svg" alt="Contiene la palabra “PIQUETES” dispuesta en forma vertical. A su derecha, hay líneas horizontales acompañadas por uno o dos rombos. Un rombo representa una marca de referencia sencilla en el patrón; dos rombos indican una referencia doble para unir piezas durante la confección.")
+                    img(src="@/assets/curso/temas/t1/fig2.svg" alt="Contiene la palabra “PIQUETES” dispuesta en forma horizontal. A su derecha, hay líneas horizontales acompañadas por uno o dos rombos. Un rombo representa una marca de referencia sencilla en el patrón; dos rombos indican una referencia doble para unir piezas durante la confección.")
                   figcaption Fuente:   
-                    a(href="Fuente: https://mx.pinterest.com/pin/196117758770451444/ " target="_blank") Fuente: https://mx.pinterest.com/pin/196117758770451444/ 
+                    a(href="https://mx.pinterest.com/pin/196117758770451444/ " target="_blank") https://mx.pinterest.com/pin/196117758770451444/ 
             .tarjeta.bg-1.p-4(titulo="Indicadores de doblez")
               h4.mb-4 Indicadores de doblez
               ul.lista-ul--color.color-primario.fa-lista.mb-4
@@ -162,8 +162,8 @@
         h3.ps-3.pe-4.mb-0 Información esencial que debe incluir cada pieza del patrón
 
       .row.justify-content-center
-        .col-lg-8(data-aos="fade-right")
-          AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta color-primario")
+        .col-lg-7(data-aos="fade-right")
+          AcordionA.style1.mb-5(tipo="a" clase-tarjeta="tarjeta color-primario")
             .row.justify-content-center(titulo="Nombre de la pieza")
               .col-11
                 p Indica qué parte de la prenda representa (ejemplo: delantero, espalda, manga, cuello, puño).
@@ -233,7 +233,7 @@
             .row.justify-content-center(titulo="Importancia de la marcación en el despiece")
               .col-11
                 p La marcación adecuada en el despiece asegura la coherencia del proceso de confección, evita errores en el corte, optimiza tiempos de producción y garantiza que cada persona del equipo pueda interpretar los moldes de forma autónoma. En entornos formativos, su dominio refuerza la comprensión de la lógica constructiva de una prenda, promueve la estandarización del lenguaje técnico y mejora la calidad del producto final.
-        .col-lg-4.col-md-8.col-10(data-aos="fade-right")
+        .col-lg-5.col-md-8.col-10(data-aos="fade-right")
           .titulo-sexto.color-acento-contenido.mb-3
             h5 Figura 7. 
             span Patrón con especificaciones técnicas 

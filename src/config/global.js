@@ -2,7 +2,7 @@ export default {
   global: {
     Name: 'Interpretación de modelos femeninos',
     Description:
-      'En este componente formativo se profundiza en la transformación de patrones base de corpiño y manga para confeccionar blusas y vestidos entallados. Se exploran variaciones de escotes, cuellos y mangas que amplían las posibilidades de diseño, incorpora la construcción de prendas especializadas como crop tops, y chaquetas ligeras. Cada diseño se materializa en una muestra, evaluada en maniquí o modelo para detectar ajustes necesarios. Se aplican técnicas de balance, corrección de sisas y ajuste de holguras hasta alcanzar un calce profesional. ',
+      'En este componente formativo se profundiza en la transformación de patrones base de corpiño y manga para confeccionar blusas y vestidos entallados. Se exploran variaciones de escotes, cuellos y mangas que amplían las posibilidades de diseño, incorpora la construcción de prendas especializadas como <em>crop tops</em>, y chaquetas ligeras. Cada diseño se materializa en una muestra, evaluada en maniquí o modelo para detectar ajustes necesarios. Se aplican técnicas de balance, corrección de sisas y ajuste de holguras hasta alcanzar un calce profesional. ',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -134,16 +134,16 @@ export default {
   },
   complementario: [
     {
-      tema: 'Guía práctica de patronaje',
+      tema: 'Variaciones patrones superiores femeninos',
       referencia: 'Castro, G. (2019). Guía práctica de patronaje.',
-      tipo: 'Guía práctica',
+      tipo: 'Página web',
       link:
         'https://es.scribd.com/document/411438766/Guia-Practica-de-Patronaje',
     },
     {
       tema: 'Patronaje y confección de prendas femeninas',
       referencia:
-        'Universidad Peruana de Ciencias Aplicadas (UPC). (2021). Patronaje y Confección II - Mujer. Lima, Perú.',
+        'Universidad Peruana de Ciencias Aplicadas (UPC). (2021). Patronaje y Confección II - Mujer. Lima, Perú. ',
       tipo: 'Libro',
       link:
         'https://upc.aws.openrepository.com/bitstream/handle/10757/662943/DM204_Patronaje_y_Confeccion_II_-_Mujer_202102.pdf?isAllowed=y&sequence=1',
@@ -209,11 +209,11 @@ export default {
     },
     {
       referencia:
-        'Hall, S. J. (2021). Basic biomechanics (9th ed.). McGraw-Hill Education',
+        'Hall, S. J. (2021). Basic biomechanics (9th ed.). McGraw-Hill Education.',
     },
     {
       referencia:
-        'Norton, K. (2019). Anthropometry and biomechanics: Foundations for human movement analysis. Routledge.',
+        'Norton, K. (2019). Anthropometry and biomechanics: Foundations for human movement analysis. Routledge. ',
     },
     {
       referencia:
@@ -225,11 +225,11 @@ export default {
     },
     {
       referencia:
-        'SENA – Servicio Nacional de Aprendizaje. (2020). Equipo de diseño curricular, Tecnico en patronaje industrial de prendas de vestir',
+        'SENA – Servicio Nacional de Aprendizaje. (2020). Equipo de diseño curricular. Técnico en patronaje industrial de prendas de vestir.',
     },
     {
       referencia:
-        'SENA – Servicio Nacional de Aprendizaje. (2021). Equipo de diseño curricular.  Técnico en Elaboración de prendas de vestir sobre medidas. ',
+        'SENA – Servicio Nacional de Aprendizaje. (2021). Equipo de diseño curricular. Técnico en Elaboración de prendas de vestir sobre medidas. ',
     },
   ],
   creditos: [
@@ -268,12 +268,12 @@ export default {
       autores: [
         {
           nombre: 'Yuly Andrea Rey Quiñonez',
-          cargo: 'Diseñador de contenidos',
+          cargo: 'Diseñadora de contenidos',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Andrea Paola Botello De la Rosa',
-          cargo: 'Desarrollador <i>full stack</i>',
+          cargo: 'Desarrolladora <i>full stack</i>',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
@@ -287,8 +287,8 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: ' ',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
+          nombre: 'Erika Daniela Manrique Rueda',
+          cargo: 'Validadora y vinculadora de recursos educativos digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {

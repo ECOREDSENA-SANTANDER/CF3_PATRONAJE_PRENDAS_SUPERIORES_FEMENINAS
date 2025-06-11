@@ -3,7 +3,7 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
     
-    p.mb-4 A continuación, se presenta un esquema que sintetiza los elementos clave del componente formativo Interpretación de modelos femeninos. El proceso inicia con la identificación de simbología y vocabulario técnico en patronaje, seguido se abordan las diferentes variaciones de prendas superiores femeninas con el proceso de trazo, para finalizar con la importancia de los textiles y el aprovechamiento de estos para  procesos de corte de prendas de vestir.     
+    p.mb-4 A continuación, se presenta un esquema que sintetiza los elementos clave del componente formativo interpretación de modelos femeninos. El proceso inicia con la identificación de simbología y vocabulario técnico en patronaje, seguido se abordan las diferentes variaciones de prendas superiores femeninas con el proceso de trazo, para finalizar con la importancia de los textiles y el aprovechamiento de estos para procesos de corte de prendas de vestir.
 
     .tarjeta.tarjeta--gris.mb-4
       .row.justify-content-center
