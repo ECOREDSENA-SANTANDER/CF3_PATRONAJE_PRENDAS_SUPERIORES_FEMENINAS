@@ -432,7 +432,7 @@
           h5 Figura 17. 
           span Cuello bebé
         figure.mb-2
-          img(src="@/assets/curso/temas/t2/fig17.png" alt="Dibujo técnico del patrón para uncuello bebé, que muestra las piezas del delantero yposterior con medidas específicas para trazar elcontorno del cuello.")
+          img(src="@/assets/curso/temas/t2/fig17.png" alt="Dibujo técnico del patrón para un cuello bebé, que muestra las piezas del delantero yposterior con medidas específicas para trazar elcontorno del cuello.")
         figcaption Fuente: SENA, (2021)
       .col-lg-7(data-aos="fade-left") 
         .tarjeta-numerada.color-primario.bg-2.sin-borde.p-5.py-4.mb-3
@@ -522,7 +522,7 @@
       h4.mb-0 Cuello y solapa
     
     .row.justify-content-center.mb-5
-      .col-lg-7.mb-4.mb-lg-0(data-aos="fade-right")
+      .col-lg-6.mb-4.mb-lg-0(data-aos="fade-right")
         p Este proceso corresponde al desarrollo de un cuello sastre con solapa, típico en #[em blazers], chaquetas o abrigos. El diseño permite que el cuello se doble hacia afuera, formando una solapa visible en el delantero. La figura presenta una secuencia de pasos que permiten construir correctamente esta estructura.
         LineaTiempoD.color-primario
           .row(numero="1" titulo="Paso 1: identificación de piezas base") 
@@ -562,12 +562,12 @@
                 li.mb-0
                   i.fas.fa-check-circle
                   span.mb-0 Este tipo de diseño es ideal para prendas formales o estructuradas.
-      .col-lg-5.col-md-9(data-aos="fade-left")
+      .col-lg-6.col-md-9(data-aos="fade-left")
         .titulo-sexto.color-acento-contenido
           h5 Figura 19. 
           span Cuello y solapa
         figure.mb-2
-          img(src='@/assets/curso/temas/t2/fig19.png', alt='Representa el proceso para transformar un cuello plano en un diseño con volumen. Se muestran piezas numeradas que se abren y redirigen para generar una forma curva. Luego, se integran al molde superior mediante líneas y medidas que orientan su ubicación con precisión.')  
+          img(src='@/assets/curso/temas/t2/fig19.svg', alt='Representa el proceso para transformar un cuello plano en un diseño con volumen. Se muestran piezas numeradas que se abren y redirigen para generar una forma curva. Luego, se integran al molde superior mediante líneas y medidas que orientan su ubicación con precisión.')  
         figcaption Fuente: SENA, (2021)
 
 
@@ -581,14 +581,14 @@
         .row.justify-content-center.align-items-center
 
           .row.justify-content-center.mb-4
-            .col-lg-5.col-md-9.mb-4
+            .col-lg-6.col-md-9.mb-4
               .titulo-sexto.color-acento-contenido(data-aos='fade-right')
                 h5 Figura 20. 
                 span  Cuello alto con manga raglán 
               figure.mb-2
                 img(src='@/assets/curso/temas/t2/fig20.png', alt='Presenta el ajuste de hombros para una prenda superior con manga ranglán. A la izquierda se encuentra la vista posterior y a la derecha la vista delantera. Ambas incluyen líneas curvas y puntos numerados que marcan desplazamientos en centímetros para dar forma a la unión entre hombro, escote y sisa. Las líneas punteadas indican el contorno original antes de la modificación.')  
               figcaption Fuente: SENA, (2021)
-            .col-lg-5.col-md-9.mb-4
+            .col-lg-6.col-md-9.mb-4
               .titulo-sexto.color-acento-contenido(data-aos='fade-right')
                 h5 Figura 21. 
                 span Cuello manga ranglán 
@@ -681,7 +681,7 @@
         .tarjeta.bg-5.p-4
           .mb-4            
             figure.mb-2
-              img(src="@/assets/curso/temas/t2/fig22.png" alt="Representa el escalado de una prenda superior con manga. A la izquierda se encuentran los trazos del cuerpo posterior y delantero; a la derecha, el trazo de la manga. Cada sección muestra varias tallas superpuestas mediante líneas curvas y rectas que parten desde un punto común, identificadas con letras y números.")
+              img(src="@/assets/curso/temas/t2/fig22.svg" alt="Representa el escalado de una prenda superior con manga. A la izquierda se encuentran los trazos del cuerpo posterior y delantero; a la derecha, el trazo de la manga. Cada sección muestra varias tallas superpuestas mediante líneas curvas y rectas que parten desde un punto común, identificadas con letras y números.")
             figcaption Fuente: SENA, (2021)
           h4 Patrones de la figura 22
           p A la izquierda se presentan los moldes del cuerpo posterior y delantero, con líneas de sisa que se curvan cada vez más hacia abajo y hacia el costado. Estas líneas están marcadas desde la línea A (más alta y ajustada) hasta la línea E (más baja y amplia).
@@ -713,14 +713,14 @@
       h4.mb-0 A. Manga raglán
 
     .row.justify-content-center.mb-5
-      .col-lg-6.col-md-10.mb-4.mb-lg-0
+      .col-lg-7.col-md-10.mb-4.mb-lg-0
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
           h5 Figura 24. 
           span Trazo de manga
         figure.mb-2
-          img(src='@/assets/curso/temas/t2/fig24.png', alt='Presenta el trazo técnico de una prenda superior con manga tipo kimono. Incluye las piezas del frente y la parte posterior, ambas con la manga incorporada en una sola forma continua. Se señalan medidas en centímetros, líneas de construcción, ubicación de botones y pieza del cuello en la parte superior.')  
+          img(src='@/assets/curso/temas/t2/fig24.svg', alt='Presenta el trazo técnico de una prenda superior con manga tipo kimono. Incluye las piezas del frente y la parte posterior, ambas con la manga incorporada en una sola forma continua. Se señalan medidas en centímetros, líneas de construcción, ubicación de botones y pieza del cuello en la parte superior.')  
         figcaption Fuente: SENA, (2021)
-      .col-lg-6
+      .col-lg-5
         AcordionA.style2(tipo="a" clase-tarjeta="tarjeta color-primario")
           .row.justify-content-center(titulo="1. Estructura general del molde")
             .col-11
@@ -769,7 +769,7 @@
       h4.mb-0 B. Manga tulipán
 
     .row.justify-content-center.mb-5
-      .col-lg-8.mb-4.mb-lg-0(data-aos="fade-right")
+      .col-lg-7.mb-4.mb-lg-0(data-aos="fade-right")
         AcordionA.style2(tipo="a" clase-tarjeta="tarjeta color-acento-contenido")
           .row.justify-content-center(titulo="Descripción")
             .col-11
@@ -795,7 +795,7 @@
               p En esta sección, las piezas A y B están unidas por los costados, mostrando cómo lucen cuando se ensamblan.
               p La unión forma una figura en forma de pétalo o de ala, con una superposición natural que proporciona movimiento y un acabado decorativo a la manga.
               p Esta unión permite que la manga se abra ligeramente al mover el brazo, generando un efecto suave y elegante.
-      .col-lg-4.col-md-6(data-aos='fade-left')
+      .col-lg-5.col-md-6(data-aos='fade-left')
         .titulo-sexto.color-acento-contenido
           h5 Figura 25. 
           span Trazo de manga tulipán 
@@ -813,14 +813,14 @@
               .subt2.mb-4.py-2.px-4(data-aos="fade")
                 h4.mb-0 C. Manga Kimono
             
-            .col-lg-6.col-md-8.mb-4.mb-lg-0
+            .col-lg-7.col-md-8.mb-4.mb-lg-0
               .titulo-sexto.color-acento-contenido
                 h5 Figura 26. 
                 span Trazo de manga kimono 
               figure.mb-2
-                img(src='@/assets/curso/temas/t2/fig26.png', alt='Presenta el trazo técnico de una prenda superior con manga tipo kimono. Incluye las piezas del frente y la parte posterior, ambas con la manga integrada. Se detallan medidas en centímetros, la ubicación del cuello y un ejemplo visual de la prenda terminada en el centro inferior.')  
+                img(src='@/assets/curso/temas/t2/fig26.svg', alt='Presenta el trazo técnico de una prenda superior con manga tipo kimono. Incluye las piezas del frente y la parte posterior, ambas con la manga integrada. Se detallan medidas en centímetros, la ubicación del cuello y un ejemplo visual de la prenda terminada en el centro inferior.')  
               figcaption Fuente: SENA, (2021)
-            .col-lg-6
+            .col-lg-5
               LineaTiempoD.color-acento-contenido
                 .row(numero="1" titulo="Descripción") 
                   .col-12
@@ -889,97 +889,97 @@
       .col-lg-8(data-aos="fade-right")
         LineaTiempoD.color-secundario
           .row(numero="1" titulo="Primer paso para el trazo") 
-            .col-md-6
+            .col-md-4
               p Se debe trazar una línea vertical y marcar la ubicación correspondiente a la línea de cintura. Desde ese punto, se mide hacia abajo la altura de cadera. En la línea de cadera, se dibuja una línea horizontal utilizando ¼ del contorno de cadera del cliente. Desde el extremo de esta línea, se escuadra hacia arriba hasta alcanzar la línea de cintura. Sobre esta última, a partir del punto de intersección, se mide una distancia de 2 cm y se señala un nuevo punto. Finalmente, el patrón delantero se posiciona haciendo coincidir dicho punto con el cruce de las líneas previamente determinadas. 
-            .col-md-6.col-10
+            .col-md-7.col-10
               .titulo-sexto.color-acento-contenido.mb-2
                 h5 Figura 27. 
                 span Primer paso para el trazo 
               figure.mb-2
-                img(src='@/assets/curso/temas/t2/fig27.png', alt='Representa un ajuste en el trazo del delantero de una prenda superior. Una línea diagonal conecta el escote con el punto del busto y está marcada como área de corte. La base del molde se desplaza 2 centímetros hacia el costado. En la parte inferior se añade un rectángulo con la altura de la cadera y un cuarto de su medida para extender el largo hacia esa zona.')  
+                img(src='@/assets/curso/temas/t2/fig27.svg', alt='Representa un ajuste en el trazo del delantero de una prenda superior. Una línea diagonal conecta el escote con el punto del busto y está marcada como área de corte. La base del molde se desplaza 2 centímetros hacia el costado. En la parte inferior se añade un rectángulo con la altura de la cadera y un cuarto de su medida para extender el largo hacia esa zona.')  
               figcaption Fuente: SENA, (2021)
           .row(numero="2" titulo="Segundo paso para el trazo ") 
-            .col-md-6
+            .col-md-4
               p Marcar un punto en la mitad del largo hombro y hacer corte hasta el punto se separación de busto. Girar el patrón abriendo esta nueva pinza y cerrando la pinza de cintura hasta que la pinza de la cintura quede sobre la línea horizontal.
-            .col-md-6.col-10
+            .col-md-7.col-10
               .titulo-sexto.color-acento-contenido.mb-2
                 h5 Figura 28. 
                 span Segundo paso para el trazo 
               figure.mb-2
-                img(src='@/assets/curso/temas/t2/fig28.png', alt='Representa una transformación en el molde delantero de una prenda superior. La pieza se ha cortado desde el escote hasta el punto del busto, y desde la base hasta la pinza lateral. Luego, se gira una de las secciones hasta que la línea del costado se alinea con el punto del busto. Esta modificación permite ajustar el volumen en esa zona.')  
+                img(src='@/assets/curso/temas/t2/fig28.svg', alt='Representa una transformación en el molde delantero de una prenda superior. La pieza se ha cortado desde el escote hasta el punto del busto, y desde la base hasta la pinza lateral. Luego, se gira una de las secciones hasta que la línea del costado se alinea con el punto del busto. Esta modificación permite ajustar el volumen en esa zona.')  
               figcaption Fuente: SENA, (2021)
           .row(numero="3" titulo="Tercer paso para el trazo") 
-            .col-md-6
+            .col-md-5
               p Dibujar y se corta una línea desde el punto de busto (punto de pivote) hacia el costado, a 8 cm.
-            .col-md-6.col-10
+            .col-md-7.col-10
               .titulo-sexto.color-acento-contenido.mb-2
                 h5 Figura 29. 
                 span Tercer paso para el trazo
               figure.mb-2
-                img(src='@/assets/curso/temas/t2/fig29.png', alt='Dibujo técnico del tercer paso para el trazo del delantero, mostrando la línea de cierre depinza y el centro del busto.')  
+                img(src='@/assets/curso/temas/t2/fig29.svg', alt='Dibujo técnico del tercer paso para el trazo del delantero, mostrando la línea de cierre depinza y el centro del busto.')  
               figcaption Fuente: SENA, (2021)
           .row(numero="4" titulo="Cuarto paso para el trazo") 
-            .col-md-6
+            .col-md-5
               p Cerrar la pinza de hombro, hacerlo trasladando esta pinza hacia el costado, así queda finalizada la pinza de busto. Marcar un punto a 2,5 cm para el inicio de pinza desde el punto de busto y trazamos la pinza de costado. 
-            .col-md-6.col-10
+            .col-md-7.col-10
               .titulo-sexto.color-acento-contenido.mb-2
                 h5 Figura 30. 
                 span Cuarto paso para el trazo 
               figure.mb-2
-                img(src='@/assets/curso/temas/t2/fig30.png', alt='Representa una variación en el molde delantero de una prenda superior. Se ha trazado y cortado una línea inclinada desde el costado hacia el punto del busto. La sección superior se ha cerrado 2.5 centímetros, generando un ajuste en la parte alta del busto.')  
+                img(src='@/assets/curso/temas/t2/fig30.svg', alt='Representa una variación en el molde delantero de una prenda superior. Se ha trazado y cortado una línea inclinada desde el costado hacia el punto del busto. La sección superior se ha cerrado 2.5 centímetros, generando un ajuste en la parte alta del busto.')  
               figcaption Fuente: SENA, (2021)
           .row(numero="5" titulo="Quinto paso para el trazo ") 
-            .col-md-6
+            .col-md-5
               p Dibujar una línea horizontal al centro delantero 2,5 cm por debajo de la altura del busto.
-            .col-md-6.col-10
+            .col-md-7.col-10
               .titulo-sexto.color-acento-contenido.mb-2
                 h5 Figura 31. 
                 span Quinto paso para el trazo 
               figure.mb-2
-                img(src='@/assets/curso/temas/t2/fig31.png', alt='Representa un trazo técnico del delantero de una prenda superior con ajustes en el área del busto y talle. Se indican dos líneas horizontales con desplazamientos de 2.5 centímetros hacia abajo y varias pinzas verticales distribuidas en el centro. Cada pinza mide 1 centímetro de ancho, y en conjunto abarcan 4.5 centímetros, permitiendo dar forma y volumen a la prenda en esa zona.')  
+                img(src='@/assets/curso/temas/t2/fig31.svg', alt='Representa un trazo técnico del delantero de una prenda superior con ajustes en el área del busto y talle. Se indican dos líneas horizontales con desplazamientos de 2.5 centímetros hacia abajo y varias pinzas verticales distribuidas en el centro. Cada pinza mide 1 centímetro de ancho, y en conjunto abarcan 4.5 centímetros, permitiendo dar forma y volumen a la prenda en esa zona.')  
               figcaption Fuente: SENA, (2021)
           .row(numero="6" titulo="Sexto paso para el trazo") 
-            .col-md-6
+            .col-md-5
               p Trazar la línea de costado y las pinzas frente.
-            .col-md-6.col-10
+            .col-md-7.col-10
               .titulo-sexto.color-acento-contenido.mb-2
                 h5 Figura 32. 
                 span Sexto paso para el trazo 
               figure.mb-2
-                img(src='@/assets/curso/temas/t2/fig32.png', alt='Representa el trazo del delantero básico para blusa o vestido. Incluye dos pinzas verticales en la zona del busto y cintura, utilizadas para dar forma al contorno del cuerpo. También se observa una ligera curva en el costado que acompaña la silueta.')  
+                img(src='@/assets/curso/temas/t2/fig32.svg', alt='Representa el trazo del delantero básico para blusa o vestido. Incluye dos pinzas verticales en la zona del busto y cintura, utilizadas para dar forma al contorno del cuerpo. También se observa una ligera curva en el costado que acompaña la silueta.')  
               figcaption Fuente: SENA, (2021)
           .row(numero="7" titulo="Séptimo paso para el trazo") 
-            .col-md-6
+            .col-md-5
               p En el patrón espalda, dibujar una línea vertical para ubicar el molde, marcar la línea de cintura y prolongar hacia abajo la altura de cadera y ¼ de contorno cadera siguiendo la referencia de la figura 33. Por el costado hacer una línea paralela de 3,75 cm de ancho.
-            .col-md-6.col-10
+            .col-md-7.col-10
               .titulo-sexto.color-acento-contenido.mb-2
                 h5 Figura 33. 
                 span Séptimo paso para el trazo
               figure.mb-2
-                img(src='@/assets/curso/temas/t2/fig33.png', alt='Representa el trazo técnico de la parte posterior de una prenda superior. Se indica un corte vertical de 3.75 centímetros en el centro, acompañado por un desplazamiento de 2 centímetros hacia el costado. En la parte inferior se añade un rectángulo con altura de cadera y un cuarto de su medida para extender el molde hacia abajo.')  
+                img(src='@/assets/curso/temas/t2/fig33.svg', alt='Representa el trazo técnico de la parte posterior de una prenda superior. Se indica un corte vertical de 3.75 centímetros en el centro, acompañado por un desplazamiento de 2 centímetros hacia el costado. En la parte inferior se añade un rectángulo con altura de cadera y un cuarto de su medida para extender el molde hacia abajo.')  
               figcaption Fuente: SENA, (2021)
           .row(numero="8" titulo="Octavo paso para el trazo") 
-            .col-md-6
+            .col-md-5
               p Hacer corte por la nueva línea y abrir la pinza hacia afuera 2 cm por la cintura.
-            .col-md-6.col-10
+            .col-md-7.col-10
               .titulo-sexto.color-acento-contenido.mb-2
                 h5 Figura 34. 
                 span Octavo paso para el trazo 
               figure.mb-2
-                img(src='@/assets/curso/temas/t2/fig34.png', alt='Representa una modificación en el trazo de la parte posterior de una prenda superior. Una sección lateral ha sido cortada y girada hasta alinear su borde con un punto específico en la base, generando un ajuste en el contorno. La parte inferior incluye una extensión rectangular correspondiente a la altura de cadera.')  
+                img(src='@/assets/curso/temas/t2/fig34.svg', alt='Representa una modificación en el trazo de la parte posterior de una prenda superior. Una sección lateral ha sido cortada y girada hasta alinear su borde con un punto específico en la base, generando un ajuste en el contorno. La parte inferior incluye una extensión rectangular correspondiente a la altura de cadera.')  
               figcaption Fuente: SENA, (2021)
           .row(numero="9" titulo="Noveno paso para el trazo") 
-            .col-md-6
+            .col-md-5
               p Trazar la línea de costado formando la cadera con suave curva.
-            .col-md-6.col-10
+            .col-md-7.col-10
               .titulo-sexto.color-acento-contenido.mb-2
                 h5 Figura 35. 
                 span Noveno paso para el trazo 
               figure.mb-2
-                img(src='@/assets/curso/temas/t2/fig35.png', alt='Representa el trazo final de la parte posterior de una prenda superior con extensión hacia la cadera. El contorno incluye pinza, escote, sisa y un costado con curva suave. En la base se une un rectángulo que completa el largo total de la prenda.')  
+                img(src='@/assets/curso/temas/t2/fig35.svg', alt='Representa el trazo final de la parte posterior de una prenda superior con extensión hacia la cadera. El contorno incluye pinza, escote, sisa y un costado con curva suave. En la base se une un rectángulo que completa el largo total de la prenda.')  
               figcaption Fuente: SENA, (2021)
           .row(numero="10" titulo="Décimo paso para el trazo") 
-            .col-md-6
+            .col-md-5
               p Por el ángulo sisa costado dibujar una línea paralela a la línea de cintura a 2,5 cm.
               ul.lista-ul--color.color-primario.fa-lista.mb-4
                 li
@@ -994,22 +994,22 @@
                 li
                   i.fas.fa-check-circle
                   span.mb-0 Se marca 1,25 cm a cada lado del centro de pinza para dar el ancho requerido.
-            .col-md-6.col-10
+            .col-md-7.col-10
               .titulo-sexto.color-acento-contenido.mb-2
                 h5 Figura 36. 
                 span Décimo paso para el trazo 
               figure.mb-2
-                img(src='@/assets/curso/temas/t2/fig36.png', alt='Representa el trazo técnico de la parte posterior de una prenda superior con ajuste en el área de la cintura y extensión hacia la cadera. Se indican desplazamientos de 2.5 y 2 centímetros en el costado, así como la ubicación de dos pinzas verticales con medidas detalladas: 1.25 centímetros de ancho cada una y 8 centímetros de largo. La base incluye un rectángulo que completa el largo total de la prenda.')  
+                img(src='@/assets/curso/temas/t2/fig36.svg', alt='Representa el trazo técnico de la parte posterior de una prenda superior con ajuste en el área de la cintura y extensión hacia la cadera. Se indican desplazamientos de 2.5 y 2 centímetros en el costado, así como la ubicación de dos pinzas verticales con medidas detalladas: 1.25 centímetros de ancho cada una y 8 centímetros de largo. La base incluye un rectángulo que completa el largo total de la prenda.')  
               figcaption Fuente: SENA, (2021)
           .row(numero="11" titulo="Onceavo paso para el trazo") 
-            .col-md-6
+            .col-md-5
               p Finalmente, se obtiene el patrón espalda.
-            .col-md-6.col-10
+            .col-md-7.col-10
               .titulo-sexto.color-acento-contenido.mb-2
                 h5 Figura 37. 
                 span Onceavo paso para el trazo 
               figure.mb-2
-                img(src='@/assets/curso/temas/t2/fig37.png', alt='Representa el trazo de la espalda básica para blusa o vestido. Incluye dos pinzas verticales en la zona de la cintura, que permiten dar forma al contorno. El diseño abarca escote, hombro, sisa, costado y largo hasta la cadera.')  
+                img(src='@/assets/curso/temas/t2/fig37.svg', alt='Representa el trazo de la espalda básica para blusa o vestido. Incluye dos pinzas verticales en la zona de la cintura, que permiten dar forma al contorno. El diseño abarca escote, hombro, sisa, costado y largo hasta la cadera.')  
               figcaption Fuente: SENA, (2021)
       .col-lg-4.d-none.d-lg-block(fade-left)
         img(src="@/assets/curso/temas/t2/14.svg")
@@ -1108,7 +1108,7 @@
                 h5 Figura 39. 
                 span #[em Crop top] con corte princesa en sisa 
               figure.mb-2
-                img(src='@/assets/curso/temas/t2/fig39.png', alt='Representa la transformación del molde base de una prenda superior sin mangas en un diseño con corte tipo princesa hacia la sisa. El proceso se muestra en tres etapas: el diseño final, el trazo con líneas guía que pasan por el busto y la sisa, y la división del molde en piezas que permiten un ajuste anatómico.')  
+                img(src='@/assets/curso/temas/t2/fig39.png', alt='Representa el proceso de transformación del molde base de una prenda superior sin mangas en un diseño con corte tipo princesa. La secuencia comienza con el trazo original, seguido por la división del delantero en piezas que atraviesan el busto, y finaliza con el molde separado en partes para facilitar el ajuste al cuerpo.')  
               figcaption Fuente: 
                 a(href="https://mx.pinterest.com/pin/103160647708822690/" target="_blank") https://mx.pinterest.com/pin/103160647708822690/
             .col-lg-7

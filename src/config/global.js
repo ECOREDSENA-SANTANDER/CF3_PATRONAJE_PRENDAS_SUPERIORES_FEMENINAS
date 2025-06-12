@@ -141,7 +141,7 @@ export default {
         'https://es.scribd.com/document/411438766/Guia-Practica-de-Patronaje',
     },
     {
-      tema: 'Patronaje y confección de prendas femeninas',
+      tema: 'Variaciones patrones superiores femeninos',
       referencia:
         'Universidad Peruana de Ciencias Aplicadas (UPC). (2021). Patronaje y Confección II - Mujer. Lima, Perú. ',
       tipo: 'Libro',
@@ -273,7 +273,7 @@ export default {
         },
         {
           nombre: 'Andrea Paola Botello De la Rosa',
-          cargo: 'Desarrolladora <i>full stack</i>',
+          cargo: 'Desarrolladora <em>full stack</em>',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
