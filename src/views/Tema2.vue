@@ -432,7 +432,7 @@
           h5 Figura 17. 
           span Cuello bebé
         figure.mb-2
-          img(src="@/assets/curso/temas/t2/fig17.png" alt="Dibujo técnico del patrón para un cuello bebé, que muestra las piezas del delantero yposterior con medidas específicas para trazar elcontorno del cuello.")
+          img(src="@/assets/curso/temas/t2/fig17.png" alt="Dibujo técnico del patrón para un cuello bebé, que muestra las piezas del delantero y posterior con medidas específicas para trazar elcontorno del cuello.")
         figcaption Fuente: SENA, (2021)
       .col-lg-7(data-aos="fade-left") 
         .tarjeta-numerada.color-primario.bg-2.sin-borde.p-5.py-4.mb-3
@@ -674,35 +674,34 @@
     p.mb-4 A continuación, se presentan diferentes variaciones de manga a partir de la modificación de sisa en el patrón, se debe tener en cuenta que la copa de la manga se afecta a medida.
 
     .row.justify-content-center.mb-5
-      .col-lg-6.mb-4.mb-lg-0(data-aos="fade-right")
+      .col-lg-8.mb-4.mb-lg-0(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido.mb-3
           h5 Figura 22. 
-          span Transformaciones de sisas según tipo de manga 
-        .tarjeta.bg-5.p-4
-          .mb-4            
-            figure.mb-2
-              img(src="@/assets/curso/temas/t2/fig22.svg" alt="Representa el escalado de una prenda superior con manga. A la izquierda se encuentran los trazos del cuerpo posterior y delantero; a la derecha, el trazo de la manga. Cada sección muestra varias tallas superpuestas mediante líneas curvas y rectas que parten desde un punto común, identificadas con letras y números.")
-            figcaption Fuente: SENA, (2021)
-          h4 Patrones de la figura 22
-          p A la izquierda se presentan los moldes del cuerpo posterior y delantero, con líneas de sisa que se curvan cada vez más hacia abajo y hacia el costado. Estas líneas están marcadas desde la línea A (más alta y ajustada) hasta la línea E (más baja y amplia).
-          p A la derecha, se ilustra el desarrollo de la manga raglán, donde cada curva (A - F) corresponde a las entradas del cuerpo.
-          p.mb-5 Esto genera mangas con diferentes volúmenes y tipos de ajuste, según la línea de sisa seleccionada.
-          .mb-5
-      .col-lg-6.mb-4.mb-lg-0(data-aos="fade-left")
+          span Transformaciones de sisas según tipo de manga           
+        figure.mb-2
+          img(src="@/assets/curso/temas/t2/fig22.svg" alt="Representa el escalado de una prenda superior con manga. A la izquierda se encuentran los trazos del cuerpo posterior y delantero; a la derecha, el trazo de la manga. Cada sección muestra varias tallas superpuestas mediante líneas curvas y rectas que parten desde un punto común, identificadas con letras y números.")
+        figcaption Fuente: SENA, (2021)
+      .col-lg-4.mt-lg-5(data-aos="fade-left")
+        h4 Patrones de la figura 22
+        p A la izquierda se presentan los moldes del cuerpo posterior y delantero, con líneas de sisa que se curvan cada vez más hacia abajo y hacia el costado. Estas líneas están marcadas desde la línea A (más alta y ajustada) hasta la línea E (más baja y amplia).
+        p A la derecha, se ilustra el desarrollo de la manga raglán, donde cada curva (A - F) corresponde a las entradas del cuerpo.
+        p Esto genera mangas con diferentes volúmenes y tipos de ajuste, según la línea de sisa seleccionada.
+    
+    .row.justify-content-center.mb-5
+      .col-lg-8.mb-4.mb-lg-0(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido.mb-3
           h5 Figura 23. 
-          span Efecto por transformación de sisa en prenda 
-        .tarjeta.bg-5.p-4         
-          .mb-4             
-            figure.mb-2
-              img(src="@/assets/curso/temas/t2/fig23.png" alt="Presenta cinco figuras alineadas que representan distintas versiones de una prenda con manga amplia. Cada figura, etiquetada de la A a la E, presenta un aumento progresivo en el volumen de la manga desde un diseño ajustado hasta uno muy holgado. La estructura general del cuerpo se mantiene, mientras la forma de la manga varía en amplitud y caída.")
-            figcaption Fuente: SENA, (2021)
-          h4 Patrones de la figura 23
-          p.mb-1 #[strong Manga A:] la más ajustada. Sisa alta, cerca del cuello. Ideal para prendas estructuradas o formales. Da una silueta más entallada.
-          p.mb-1 #[strong Manga B:] ligeramente más baja que la A. Permite algo más de movilidad, aun manteniendo una forma definida.
-          p.mb-1 #[strong Manga C:] curva media. Equilibra comodidad y estilo. Se usa comúnmente en prendas deportivas o casuales.
-          p.mb-1 #[strong Manga D:] sisa baja y amplia. Proporciona una manga suelta, con más caída sobre el brazo. Usada en buzos, chaquetas o estilos relajados.
-          p.mb-1 #[strong Manga E:] la más amplia. La sisa cae casi a nivel de la cintura, generando un estilo tipo "murciélago" o "#[em oversize]". Es ideal para diseños de moda con volumen y libertad de movimiento.
+          span Efecto por transformación de sisa en prenda             
+        figure.mb-2
+          img(src="@/assets/curso/temas/t2/fig23.png" alt="Presenta cinco figuras alineadas que representan distintas versiones de una prenda con manga amplia. Cada figura, etiquetada de la A a la E, presenta un aumento progresivo en el volumen de la manga desde un diseño ajustado hasta uno muy holgado. La estructura general del cuerpo se mantiene, mientras la forma de la manga varía en amplitud y caída.")
+        figcaption Fuente: SENA, (2021)
+      .col-lg-4.mt-lg-4(data-aos="fade-left")
+        h4 Patrones de la figura 23
+        p.mb-1 #[strong Manga A:] la más ajustada. Sisa alta, cerca del cuello. Ideal para prendas estructuradas o formales. Da una silueta más entallada.
+        p.mb-1 #[strong Manga B:] ligeramente más baja que la A. Permite algo más de movilidad, aun manteniendo una forma definida.
+        p.mb-1 #[strong Manga C:] curva media. Equilibra comodidad y estilo. Se usa comúnmente en prendas deportivas o casuales.
+        p.mb-1 #[strong Manga D:] sisa baja y amplia. Proporciona una manga suelta, con más caída sobre el brazo. Usada en buzos, chaquetas o estilos relajados.
+        p.mb-1 #[strong Manga E:] la más amplia. La sisa cae casi a nivel de la cintura, generando un estilo tipo "murciélago" o "#[em oversize]". Es ideal para diseños de moda con volumen y libertad de movimiento.
 
     p Las figuras 22 y 23 presentan cómo distintas variaciones en la curva de la sisa (etiquetadas como A, B, C, D y E) generan mangas raglán con diferentes niveles de amplitud, caída y estilo visual.
 
