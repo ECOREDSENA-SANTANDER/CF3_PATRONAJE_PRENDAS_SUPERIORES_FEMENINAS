@@ -37,7 +37,7 @@
                     p.mb-0 Video explicativo sobre cómo se hace el trazo blusa femenina.
                   .col-sm-auto
                     a.boton.color-acento-botones.texto-blanco(:href="('https://www.youtube.com/watch?v=euVdaqaTQlY&t=1523s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA')" target="_blank")
-                      span Ver Video 
+                      span Ir al sitio
                       i.fas.fa-link
 
     p.mb-5 Es importante considerar que las medidas utilizadas en materiales audiovisuales, como videos instructivos, cumplen una función referencial. Cada trazo puede variar dependiendo del diseño, los elementos que se incorporen o incluso las herramientas utilizadas, como el tipo de lápiz. Sin embargo, siempre se recomienda consultar las tablas de tallas y aplicar correctamente las fórmulas indicadas para garantizar precisión y coherencia en la construcción del molde.
@@ -705,7 +705,7 @@
 
     p Las figuras 22 y 23 presentan cómo distintas variaciones en la curva de la sisa (etiquetadas como A, B, C, D y E) generan mangas raglán con diferentes niveles de amplitud, caída y estilo visual.
 
-    p.mb-5 Cada línea de sisa en el patrón base (A - E) corresponde directamente al tipo de curva en la copa de la manga, generando una transformación visible en la forma, volumen y caída de la prenda. Esta relación permite diseñar desde mangas ajustadas hasta propuestas sueltas y de estilo vanguardista, adaptadas al propósito de la prenda
+    p.mb-5 Cada línea de sisa en el patrón base (A - E) corresponde directamente al tipo de curva en la copa de la manga, generando una transformación visible en la forma, volumen y caída de la prenda. Esta relación permite diseñar desde mangas ajustadas hasta propuestas sueltas y de estilo vanguardista, adaptadas al propósito de la prenda y al tipo de cuerpo. 
 
 
     .subt2.mb-4.py-2.px-4(data-aos="fade")
@@ -1050,7 +1050,7 @@
                     p.mb-0 Explorar video explicativo sobre cómo realizar trazo de prendas.
                   .col-sm-auto
                     a.boton.color-acento-botones.texto-blanco(:href="('https://www.youtube.com/watch?app=desktop&v=JnFLa4-gUa4&t=187s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA')" target="_blank")
-                      span Ver Video 
+                      span Ir al sitio
                       i.fas.fa-link
 
     Separador
