@@ -36,7 +36,7 @@
                     h4.mb-1 Video - Trazo de blusa femenina
                     p.mb-0 Video explicativo sobre cómo se hace el trazo blusa femenina.
                   .col-sm-auto
-                    a.boton.color-acento-botones.texto-blanco(:href="('https://www.youtube.com/watch?v=euVdaqaTQlY&t=1523s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA')" target="_blank")
+                    a.boton.color-acento-botones.texto-blanco(:href="('https://youtu.be/eH7LRTKK040')" target="_blank")
                       span Ir al sitio
                       i.fas.fa-link
 
@@ -300,7 +300,7 @@
               .row.justify-content-center
                 .col-md-11
                   h5 2. Definición del nuevo escote
-                  p Desde el punto más profundo del escote delantero, ubicado en el centro del molde, se traza una curva ascendente hacia el extremo superior de la sisa del delantero. Esta línea continua de forma fluida y simétrica hacia la sisa del molde posterior, formando una curva continua que rodea el cuello.
+                  p Desde el punto más profundo del escote delantero, ubicado en el centro del molde, se traza una curva ascendente hacia el extremo superior de la sisa del delantero. Esta línea continúa de forma fluida y simétrica hacia la sisa del molde posterior, formando una curva continua que rodea el cuello.
               .row.justify-content-center
                 .col-md-11
                   h5 3. Revisión del trazo
@@ -701,7 +701,7 @@
         p.mb-1 #[strong Manga B:] ligeramente más baja que la A. Permite algo más de movilidad, aun manteniendo una forma definida.
         p.mb-1 #[strong Manga C:] curva media. Equilibra comodidad y estilo. Se usa comúnmente en prendas deportivas o casuales.
         p.mb-1 #[strong Manga D:] sisa baja y amplia. Proporciona una manga suelta, con más caída sobre el brazo. Usada en buzos, chaquetas o estilos relajados.
-        p.mb-1 #[strong Manga E:] la más amplia. La sisa cae casi a nivel de la cintura, generando un estilo tipo "murciélago" o "#[em oversize]". Es ideal para diseños de moda con volumen y libertad de movimiento.
+        p.mb-1 #[strong Manga E:] la más amplia. La sisa cae casi a nivel de la cintura, generando un estilo tipo "murciélago" u "#[em oversize]". Es ideal para diseños de moda con volumen y libertad de movimiento.
 
     p Las figuras 22 y 23 presentan cómo distintas variaciones en la curva de la sisa (etiquetadas como A, B, C, D y E) generan mangas raglán con diferentes niveles de amplitud, caída y estilo visual.
 
@@ -899,7 +899,7 @@
               figcaption Fuente: SENA, (2021)
           .row(numero="2" titulo="Segundo paso para el trazo ") 
             .col-md-4
-              p Marcar un punto en la mitad del largo hombro y hacer corte hasta el punto se separación de busto. Girar el patrón abriendo esta nueva pinza y cerrando la pinza de cintura hasta que la pinza de la cintura quede sobre la línea horizontal.
+              p Marcar un punto en la mitad del largo hombro y hacer corte hasta el punto de separación de busto. Girar el patrón abriendo esta nueva pinza y cerrando la pinza de cintura hasta que la pinza de la cintura quede sobre la línea horizontal.
             .col-md-7.col-10
               .titulo-sexto.color-acento-contenido.mb-2
                 h5 Figura 28. 
@@ -1049,7 +1049,7 @@
                     h4.mb-1 Video - Trazo de prendas – bata o vestido
                     p.mb-0 Explorar video explicativo sobre cómo realizar trazo de prendas.
                   .col-sm-auto
-                    a.boton.color-acento-botones.texto-blanco(:href="('https://www.youtube.com/watch?app=desktop&v=JnFLa4-gUa4&t=187s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA')" target="_blank")
+                    a.boton.color-acento-botones.texto-blanco(:href="('https://www.youtube.com/watch?v=eH7LRTKK040')" target="_blank")
                       span Ir al sitio
                       i.fas.fa-link
 
@@ -1107,7 +1107,7 @@
                 h5 Figura 39. 
                 span #[em Crop top] con corte princesa en sisa 
               figure.mb-2
-                img(src='@/assets/curso/temas/t2/fig39.png', alt='Representa el proceso de transformación del molde base de una prenda superior sin mangas en un diseño con corte tipo princesa. La secuencia comienza con el trazo original, seguido por la división del delantero en piezas que atraviesan el busto, y finaliza con el molde separado en partes para facilitar el ajuste al cuerpo.')  
+                img(src='@/assets/curso/temas/t2/fig39.png', alt='Representa la transformación del molde base de una prenda superior sin mangas en un diseño con corte tipo princesa hacia la sisa. El proceso se muestra en tres etapas: el diseño final, el trazo con líneas guía que pasan por el busto y la sisa, y la división del molde en piezas que permiten un ajuste anatómico.')  
               figcaption Fuente: 
                 a(href="https://mx.pinterest.com/pin/103160647708822690/" target="_blank") https://mx.pinterest.com/pin/103160647708822690/
             .col-lg-7
@@ -1137,7 +1137,7 @@
           h5 Figura 40. 
           span #[em Crop top] corte princesa en sisa corto  
         figure.mb-2
-          img(src='@/assets/curso/temas/t2/fig40.png', alt='Representa la transformación del molde base de una prenda superior sin mangas en un diseño con corte tipo princesa hacia la sisa. El proceso se muestra en tres etapas: el diseño final, el trazo con líneas guía que pasan por el busto y la sisa, y la división del molde en piezas que permiten un ajuste anatómico.')  
+          img(src='@/assets/curso/temas/t2/fig40.png', alt='Representa la transformación del molde base de una prenda superior sin mangas en un diseño de crop top corto con corte tipo princesa hacia la sisa. El proceso se muestra en tres etapas: el diseño final del crop top ajustado y de longitud reducida, el trazo con líneas guía que pasan por el busto y se dirigen hacia la sisa, y la división del molde en piezas que permiten un ajuste anatómico al contorno del cuerpo.')  
         figcaption Fuente: 
           a(href="https://mx.pinterest.com/pin/103160647708822690/" target="_blank") https://mx.pinterest.com/pin/103160647708822690/
       .col-lg-3.mb-4.d-none.d-lg-block

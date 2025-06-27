@@ -35,7 +35,7 @@
                     h5 Figura 1.
                     span Símbolo de hilo de tela  
                   figure.mb-1
-                    img(src="@/assets/curso/temas/t1/fig1.svg" alt="Presenta la frase “HILO DEL TEJIDO” en orientación vertical, acompañada de dos flechas rectas con doble punta en sentido vertical. Estas indican la dirección correcta del hilo en la tela para colocar el patrón.")
+                    img(src="@/assets/curso/temas/t1/fig1.svg" alt="Presenta la frase “HILO DEL TEJIDO” en orientación horizontal, acompañada de dos flechas rectas con doble punta en sentido vertical. Estas indican la dirección correcta del hilo en la tela para colocar el patrón.")
                   figcaption Fuente:   
                     a(href="https://mx.pinterest.com/pin/196117758770451444/" target="_blank") https://mx.pinterest.com/pin/196117758770451444/
             .tarjeta.bg-1.p-4(titulo="Piquetes de ensamble")
@@ -98,7 +98,7 @@
                     h5 Figura 4. 
                     span Símbolos de margen de costura  
                   figure.mb-1
-                    img(src="@/assets/curso/temas/t1/fig4.svg" alt="Presenta el texto “MARGEN DE COSTURA” en orientación vertical. A la derecha, hay dos líneas: una continua que representa el borde del patrón y otra discontinua que indica el espacio añadido para la costura.")
+                    img(src="@/assets/curso/temas/t1/fig4.svg" alt="Presenta el texto “MARGEN DE COSTURA” en orientación horizontal. A la derecha, hay dos líneas: una continua que representa el borde del patrón y otra discontinua que indica el espacio añadido para la costura.")
                   figcaption Fuente:   
                     a(href="https://mx.pinterest.com/pin/196117758770451444/" target="_blank") https://mx.pinterest.com/pin/196117758770451444/
             .tarjeta.bg-1.p-4(titulo="Líneas internas")
