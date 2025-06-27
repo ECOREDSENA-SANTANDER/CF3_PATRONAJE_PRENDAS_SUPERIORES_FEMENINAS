@@ -36,7 +36,7 @@
                     h4.mb-1 Video - Trazo de blusa femenina
                     p.mb-0 Video explicativo sobre cómo se hace el trazo blusa femenina.
                   .col-sm-auto
-                    a.boton.color-acento-botones.texto-blanco(:href="('https://youtu.be/eH7LRTKK040')" target="_blank")
+                    a.boton.color-acento-botones.texto-blanco(:href="('https://youtu.be/DamxUrw0CZM')" target="_blank")
                       span Ir al sitio
                       i.fas.fa-link
 
