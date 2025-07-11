@@ -174,7 +174,7 @@
                   p.mb-1 Unir estos dos puntos formando una línea horizontal, y luego trazar una línea recta vertical desde el punto más bajo hasta el centro delantero.
                   p El resultado es un escote cuadrado, de líneas rectas y ángulos marcados.
                   .bg-2.py-1.px-3.br-5
-                    p.mb-0 #[strong Nota:] En la figura, este escote está marcado en línea roja en el lado izquierdo.
+                    p.mb-0 #[strong Nota:] en la figura, este escote está marcado en línea roja en el lado izquierdo.
               .row.justify-content-center
                 .col-md-11
                   h5 3. Trazar el escote trasero
@@ -182,7 +182,7 @@
                   p.mb-1 Medir hacia dentro desde el cuello hacia el hombro entre 1 y 2 centímetros.
                   p Unir ambos puntos con una curva suave, formando un escote posterior sutil, que mantiene armonía con el delantero.
                   .bg-2.py-1.px-3.br-5
-                    p.mb-0 #[strong Nota:] También está indicado con una línea roja en el molde trasero (lado derecho).
+                    p.mb-0 #[strong Nota:] también está indicado con una línea roja en el molde trasero (lado derecho).
               .row.justify-content-center
                 .col-md-11
                   h5 4. Finalizar el trazo
@@ -263,7 +263,7 @@
               .row.justify-content-center
                 .col-md-11
                   h5 4. Revisión y simetría
-                  p La persona verifica que ambas curvas —delantera y trasera— estén a la misma altura sobre la línea de hombros, y que conecten suavemente con el contorno de la prenda.
+                  p La persona verifica que ambas curvas — delantera y trasera — estén a la misma altura sobre la línea de hombros, y que conecten suavemente con el contorno de la prenda.
               .row.justify-content-center
                 .col-md-11
                   h5 5. Corte del nuevo escote
@@ -657,7 +657,7 @@
       .col-lg-5.col-md-8.mb-3.mb-lg-0(data-aos="fade-right")
         img(src="@/assets/curso/temas/t2/10.png")
       .col-lg-7(data-aos="fade-left")
-        p Entre las variaciones más utilizadas se encuentran la manga japonesa, que extiende el hombro de forma continua sin costura en la sisa, generando una caída natural del tejido. También destaca la manga abullonada, que incorpora frunces en uno o ambos extremos, aportando dramatismo y volumen. Por otro lado, la manga murciélago se distingue por su gran amplitud desde el hombro hasta la cintura, ofreciendo libertad de movimiento y un diseño más relajado.
+        p Entre las variaciones más utilizadas se encuentra la manga japonesa, que extiende el hombro de forma continua sin costura en la sisa, generando una caída natural del tejido. También destaca la manga abullonada, que incorpora frunces en uno o ambos extremos, aportando dramatismo y volumen. Por otro lado, la manga murciélago se distingue por su gran amplitud desde el hombro hasta la cintura, ofreciendo libertad de movimiento y un diseño más relajado.
         .bg-3.p-4
           .row.justify-content-center.align-items-center
             .col-lg-10
@@ -858,7 +858,7 @@
                     p.mb-1 Similar al delantero, con manga kimono integrada.
                     p.mb-1 Incluye líneas de guía para la ubicación del cuello y dobladillo.
                     p.mb-1 Se presenta una ligera curvatura en la parte posterior del cuello.
-                    p.mb-1 También se señalan dobleces y ajustes opcionales en los laterales o bajo de la prenda.
+                    p.mb-1 También se señalan dobleces y ajustes opcionales en los laterales o bajos de la prenda.
                 .row(numero="4" titulo="Pieza del cuello") 
                   .col-12
                     p.mb-1 Ubicada en la parte central superior.
